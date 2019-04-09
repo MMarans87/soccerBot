@@ -1,0 +1,12 @@
+soccerBot\utility\Constants.class
+soccerBot\model\errors\GenericError.class
+soccerBot\controller\SoccerBotController.class
+soccerBot\model\Match.class
+soccerBot\SoccerBotApp.class
+soccerBot\client\FileUtilities.class
+soccerBot\model\MatchWeek.class
+soccerBot\client\RestConfig.class
+soccerBot\service\SoccerBotService.class
+soccerBot\transformations\Engine.class
+soccerBot\controller\test.class
+soccerBot\model\Team.class
