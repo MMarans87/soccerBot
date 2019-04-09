@@ -25,7 +25,7 @@ public class SoccerBotService {
 		try {
 			List<Team> teams = Create.teams();
 			List<MatchWeek> schedule = Schedule.generate();
-
+			Schedule.duplicate(schedule);
 			FileUtilities.deleteFile(Constants.RESULTS);
 			FileUtilities.saveResponse(Constants.RESULTS, Constants.START);
 			FileUtilities.updateResponse(Constants.RESULTS, Constants.EMPTY);
@@ -33,7 +33,7 @@ public class SoccerBotService {
 			FileUtilities.updateResponse(Constants.RESULTS, Constants.EMPTY);
 
 			for (MatchWeek matchWeek : schedule) {
-				FileUtilities.updateResponse(Constants.RESULTS, (Constants.DAY + schedule.indexOf(matchWeek) + 1));
+				FileUtilities.updateResponse(Constants.RESULTS, (Constants.DAY + (schedule.indexOf(matchWeek) + 1)));
 				FileUtilities.updateResponse(Constants.RESULTS, Constants.EMPTY);
 
 				for (Match match : matchWeek.getMathces()) {

@@ -54,4 +54,22 @@ public class Schedule {
 		return schedule;
 	}
 
+	public static List<MatchWeek> duplicate(List<MatchWeek> schedule) {
+		List<MatchWeek> back = new ArrayList<>();
+		for (MatchWeek tempMatchWeek : schedule) {
+			MatchWeek matchWeek = new MatchWeek();
+			List<Match> matches = new ArrayList<>();
+			matchWeek.setMathces(matches);
+			for (Match tempMatch : tempMatchWeek.getMathces()) {
+				Match match = new Match();
+				match.setHome(tempMatch.getAway());
+				match.setAway(tempMatch.getHome());
+				matches.add(match);
+			}
+			back.add(matchWeek);
+		}
+		schedule.addAll(back);
+		return schedule;
+	}
+
 }
