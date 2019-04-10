@@ -37,7 +37,7 @@ public class SoccerBotService {
 				FileUtilities.updateResponse(Constants.RESULTS, Constants.EMPTY);
 
 				for (Match match : matchWeek.getMathces()) {
-					Engine.calculate(match);
+					Engine.calculate(match, teams);
 					Engine.update(teams, match);
 					FileUtilities.updateResponse(Constants.RESULTS, FileUtilities.outputMatch(match));
 					FileUtilities.updateResponse(Constants.RESULTS, Constants.EMPTY);

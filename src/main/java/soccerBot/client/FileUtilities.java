@@ -85,7 +85,7 @@ public class FileUtilities {
 			}
 		});
 		for (Team team : teams) {
-			rank += team.getName() + " " + team.getPoints() + "\n";
+			rank += team.getName() + " " + team.getPoints() +  "     | GF: " + team.getGoals() + "    | WS: " + team.getWinStrike() + "\n";
 		}
 		return rank;
 	}
