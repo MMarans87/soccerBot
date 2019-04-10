@@ -25,34 +25,18 @@ public class SoccerBotService {
 		try {
 			List<Team> teams = Create.teams();
 			List<MatchWeek> schedule = Schedule.generate();
-			Schedule.duplicate(schedule);
-			FileUtilities.deleteFile(Constants.RESULTS);
 			FileUtilities.saveResponse(Constants.RESULTS, Constants.START);
-			FileUtilities.updateResponse(Constants.RESULTS, Constants.EMPTY);
-			FileUtilities.updateResponse(Constants.RESULTS, Constants.SEPARATOR);
-			FileUtilities.updateResponse(Constants.RESULTS, Constants.EMPTY);
-
+			FileUtilities.updateResponse(Constants.RESULTS, Constants.EMPTY + Constants.SEPARATOR + Constants.EMPTY);
 			for (MatchWeek matchWeek : schedule) {
-				FileUtilities.updateResponse(Constants.RESULTS, (Constants.DAY + (schedule.indexOf(matchWeek) + 1)));
-				FileUtilities.updateResponse(Constants.RESULTS, Constants.EMPTY);
-
+				FileUtilities.updateResponse(Constants.RESULTS, (Constants.DAY + (schedule.indexOf(matchWeek) + 1)) + Constants.EMPTY);
 				for (Match match : matchWeek.getMathces()) {
 					Engine.calculate(match, teams);
 					Engine.update(teams, match);
-					FileUtilities.updateResponse(Constants.RESULTS, FileUtilities.outputMatch(match));
-					FileUtilities.updateResponse(Constants.RESULTS, Constants.EMPTY);
-
+					FileUtilities.updateResponse(Constants.RESULTS, FileUtilities.outputMatch(match) + Constants.EMPTY);
 				}
-				FileUtilities.updateResponse(Constants.RESULTS, Constants.EMPTY);
-				FileUtilities.updateResponse(Constants.RESULTS, FileUtilities.outputTeams(teams));
-				FileUtilities.updateResponse(Constants.RESULTS, Constants.EMPTY);
-				FileUtilities.updateResponse(Constants.RESULTS, Constants.SEPARATOR);
-				FileUtilities.updateResponse(Constants.RESULTS, Constants.EMPTY);
-
+				FileUtilities.updateResponse(Constants.RESULTS, Constants.EMPTY + FileUtilities.outputTeams(teams) + Constants.EMPTY + Constants.SEPARATOR + Constants.EMPTY);
 			}
-
 			FileUtilities.updateResponse(Constants.RESULTS, FileUtilities.outputWinner(teams));
-
 		} catch (Exception e) {
 			throw new GenericError("Generic Error: " + e.getMessage(), e);
 		}

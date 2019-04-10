@@ -49,9 +49,8 @@ public class Schedule {
 			}
 
 			schedule.add(matchWeek);
-
 		}
-		return schedule;
+		return duplicate(schedule);
 	}
 
 	public static List<MatchWeek> duplicate(List<MatchWeek> schedule) {

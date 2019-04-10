@@ -9,7 +9,7 @@ public final class Constants {
 	public static final String PREFIX_PATH = "/home/jboss/soccerBot";
 	public static final String RESULTS = "results.json";
 	public static final String START = "START SOCCER BOT v0.1";
-	public static final String DAY = "DAY";
+	public static final String DAY = "DAY ";
 	public static final String EMPTY = " \n";
 	public static final String SEPARATOR = "---------------------------";
 

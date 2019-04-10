@@ -68,12 +68,12 @@ public class FileUtilities {
 	}
 
 	public static String outputMatch(Match match) {
-		return match.getHome() + " " + match.getHomeGoals() + " - " + match.getAwayGoals() + " " + match.getAway();
+		return String.format("%10s %1s - %1s %-10s", match.getHome(), match.getHomeGoals(), match.getAwayGoals(), match.getAway());
 	}
 
 	public static String outputTeams(List<Team> teams) {
-		String rank = "PLACEMENT";
-		rank += "\n";
+		String rank = "PLACEMENT:" + "\n";
+		rank += String.format("|%-10s|%-5s|%-3s|%-6s|", "SQUADRA", "PUNTI", "GOL", "STRIKE") + "\n";
 		Collections.sort(teams, new Comparator<Team>() {
 			@Override
 			public int compare(Team t1, Team t2) {
@@ -85,7 +85,7 @@ public class FileUtilities {
 			}
 		});
 		for (Team team : teams) {
-			rank += team.getName() + " " + team.getPoints() +  "     | GF: " + team.getGoals() + "    | WS: " + team.getWinStrike() + "\n";
+			rank += String.format("|%-10s|%-5s|%-3s|%-6s|", team.getName(), team.getPoints(), team.getGoals(), team.getWinStrike()) + "\n";
 		}
 		return rank;
 	}

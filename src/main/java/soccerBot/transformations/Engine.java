@@ -19,11 +19,7 @@ public class Engine {
 				awayTeam = team;
 			}
 		}
-		
 		calculateScore(homeTeam, awayTeam, match);
-		
-//		match.setHomeGoals(calculateScore());
-//		match.setAwayGoals(calculateScore());
 	}
 
 	public static void update(List<Team> teams, Match match) {
@@ -71,16 +67,6 @@ public class Engine {
 			awayGoals = (int) Math.round(awayRnd.nextGaussian() * 1.1 + (1.2d + ((awayTeam.getPoints() - homeTeam.getPoints()) * 0.018d)));
 		} while (awayGoals < 0 || awayGoals > 9);
 		match.setAwayGoals(awayGoals);
-	}
-
-	public static String evaluateResult(Integer valueH, Integer valueA) {
-		if (valueH == valueA) {
-			return "DRAW";
-		}
-		if (valueH > valueA) {
-			return "HOME TEAM WIN";
-		}
-		return "AWAY TEAM WIN";
 	}
 
 	public static int evaluatePoints(Integer teamScore, Integer oppositeScore) {
