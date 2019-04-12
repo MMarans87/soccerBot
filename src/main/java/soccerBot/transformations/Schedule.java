@@ -18,37 +18,40 @@ public class Schedule {
 			ListTeam.add(Constants.SKIP); // If odd number of teams add a dummy
 		}
 
-		int numDays = (ListTeam.size() - 1); // Days needed to complete tournament
-		int halfSize = ListTeam.size() / 2;
+		List<String> homeTeams = new ArrayList<>();
+		List<String> awayTeams = new ArrayList<>();
 
-		List<String> teams = new ArrayList<>();
+		for (int k = 0; k < ListTeam.size() / 2; k++) {
+			homeTeams.add(ListTeam.get(k));
+			awayTeams.add(ListTeam.get(ListTeam.size() - 1 - k));
+		}
 
-		teams.addAll(ListTeam);
-		teams.remove(0);
-
-		int teamsSize = teams.size();
-
-		for (int day = 0; day < numDays; day++) {
+		for (int k = 0; k < ListTeam.size() - 1; k++) {
 			MatchWeek matchWeek = new MatchWeek();
 			List<Match> matches = new ArrayList<>();
 			matchWeek.setMathces(matches);
 
-			int teamIdx = day % teamsSize;
-			Match match = new Match();
-			matches.add(match);
-			match.setHome(teams.get(teamIdx));
-			match.setAway(ListTeam.get(0));
-
-			for (int idx = 1; idx < halfSize; idx++) {
-				int firstTeam = (day + idx) % teamsSize;
-				int secondTeam = (day + teamsSize - idx) % teamsSize;
-				Match alternativeMatch = new Match();
-				matches.add(alternativeMatch);
-				alternativeMatch.setHome(teams.get(firstTeam));
-				alternativeMatch.setAway(teams.get(secondTeam));
+			if (k % 2 == 0) {
+				for (int i = 0; i < ListTeam.size() / 2; i++) {
+					Match match = new Match();
+					matches.add(match);
+					match.setHome(homeTeams.get(i));
+					match.setAway(awayTeams.get(i));
+				}
+			} else {
+				for (int i = 0; i < ListTeam.size() / 2; i++) {
+					Match match = new Match();
+					matches.add(match);
+					match.setHome(awayTeams.get(i));
+					match.setAway(homeTeams.get(i));
+				}
 			}
 
+			// shifto l'array away per creare differenti matchup
+			String shifted = awayTeams.get(awayTeams.size() - 1);
+			awayTeams = shift(awayTeams, shifted);
 			schedule.add(matchWeek);
+
 		}
 		return duplicate(schedule);
 	}
@@ -71,4 +74,12 @@ public class Schedule {
 		return schedule;
 	}
 
+	private static List<String> shift(List<String> awayTeams, String add) {
+		List<String> temp = new ArrayList<>();
+		for (int i = 1; i < awayTeams.size(); i++) {
+			temp.add(awayTeams.get(i - 1));
+		}
+		temp.add(0, add);
+		return temp;
+	}
 }

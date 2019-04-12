@@ -1,1371 +1,1371 @@
 START SOCCER BOT v0.1 
 --------------------------- 
 DAY 1 
-   BOLOGNA 0 - 0 ATALANTA   
-  CAGLIARI 2 - 0 UDINESE    
-    CHIEVO 0 - 2 TORINO     
-    EMPOLI 2 - 3 SPAL       
-FIORENTINA 0 - 2 SASSUOLO   
- FROSINONE 2 - 1 SAMPDORIA  
-     GENOA 1 - 1 ROMA       
-     INTER 1 - 3 PARMA      
-  JUVENTUS 0 - 0 NAPOLI     
-     LAZIO 1 - 1 MILAN      
- 
-PLACEMENT:
-|SQUADRA   |PUNTI|GOL|STRIKE|
-|CAGLIARI  |3    |2  |1     |
-|FROSINONE |3    |2  |1     |
-|PARMA     |3    |3  |1     |
-|SASSUOLO  |3    |2  |1     |
-|SPAL      |3    |3  |1     |
-|TORINO    |3    |2  |1     |
-|ATALANTA  |1    |0  |0     |
-|BOLOGNA   |1    |0  |0     |
-|GENOA     |1    |1  |0     |
-|JUVENTUS  |1    |0  |0     |
-|LAZIO     |1    |1  |0     |
-|MILAN     |1    |1  |0     |
-|NAPOLI    |1    |0  |0     |
-|ROMA      |1    |1  |0     |
-|CHIEVO    |0    |0  |0     |
-|EMPOLI    |0    |2  |0     |
-|FIORENTINA|0    |0  |0     |
-|INTER     |0    |1  |0     |
-|SAMPDORIA |0    |1  |0     |
-|UDINESE   |0    |0  |0     |
- 
---------------------------- 
-DAY 2 
-  CAGLIARI 0 - 3 ATALANTA   
-    CHIEVO 3 - 0 BOLOGNA    
-    EMPOLI 2 - 1 UDINESE    
-FIORENTINA 1 - 3 TORINO     
- FROSINONE 2 - 2 SPAL       
-     GENOA 1 - 0 SASSUOLO   
-     INTER 1 - 0 SAMPDORIA  
-  JUVENTUS 1 - 0 ROMA       
-     LAZIO 2 - 1 PARMA      
-     MILAN 3 - 1 NAPOLI     
- 
-PLACEMENT:
-|SQUADRA   |PUNTI|GOL|STRIKE|
-|TORINO    |6    |5  |2     |
-|FROSINONE |4    |4  |0     |
-|SPAL      |4    |5  |0     |
-|ATALANTA  |4    |3  |1     |
-|GENOA     |4    |2  |1     |
-|JUVENTUS  |4    |1  |1     |
-|LAZIO     |4    |3  |1     |
-|MILAN     |4    |4  |1     |
-|CAGLIARI  |3    |2  |0     |
-|PARMA     |3    |4  |0     |
-|SASSUOLO  |3    |2  |0     |
-|CHIEVO    |3    |3  |1     |
-|EMPOLI    |3    |4  |1     |
-|INTER     |3    |2  |1     |
-|BOLOGNA   |1    |0  |0     |
-|NAPOLI    |1    |1  |0     |
-|ROMA      |1    |1  |0     |
-|FIORENTINA|0    |1  |0     |
-|SAMPDORIA |0    |1  |0     |
-|UDINESE   |0    |1  |0     |
- 
---------------------------- 
-DAY 3 
-    CHIEVO 2 - 1 ATALANTA   
-    EMPOLI 1 - 1 CAGLIARI   
-FIORENTINA 1 - 3 BOLOGNA    
- FROSINONE 1 - 3 UDINESE    
-     GENOA 4 - 0 TORINO     
-     INTER 0 - 3 SPAL       
-  JUVENTUS 2 - 1 SASSUOLO   
-     LAZIO 2 - 0 SAMPDORIA  
-     MILAN 0 - 0 ROMA       
-    NAPOLI 1 - 1 PARMA      
- 
-PLACEMENT:
-|SQUADRA   |PUNTI|GOL|STRIKE|
-|SPAL      |7    |8  |1     |
-|GENOA     |7    |6  |2     |
-|JUVENTUS  |7    |3  |2     |
-|LAZIO     |7    |5  |2     |
-|TORINO    |6    |5  |0     |
-|CHIEVO    |6    |5  |2     |
-|MILAN     |5    |4  |0     |
-|FROSINONE |4    |5  |0     |
-|ATALANTA  |4    |4  |0     |
-|CAGLIARI  |4    |3  |0     |
-|PARMA     |4    |5  |0     |
-|EMPOLI    |4    |5  |0     |
-|BOLOGNA   |4    |3  |1     |
-|SASSUOLO  |3    |3  |0     |
-|INTER     |3    |2  |0     |
-|UDINESE   |3    |4  |1     |
-|NAPOLI    |2    |2  |0     |
-|ROMA      |2    |1  |0     |
-|FIORENTINA|0    |2  |0     |
-|SAMPDORIA |0    |1  |0     |
- 
---------------------------- 
-DAY 4 
-    EMPOLI 3 - 0 ATALANTA   
-FIORENTINA 2 - 0 CHIEVO     
- FROSINONE 1 - 0 CAGLIARI   
-     GENOA 3 - 0 BOLOGNA    
-     INTER 1 - 2 UDINESE    
-  JUVENTUS 0 - 1 TORINO     
-     LAZIO 0 - 1 SPAL       
-     MILAN 2 - 1 SASSUOLO   
-    NAPOLI 3 - 3 SAMPDORIA  
-     PARMA 2 - 3 ROMA       
- 
-PLACEMENT:
-|SQUADRA   |PUNTI|GOL|STRIKE|
-|SPAL      |10   |9  |2     |
-|GENOA     |10   |9  |3     |
-|TORINO    |9    |6  |1     |
-|MILAN     |8    |6  |1     |
-|JUVENTUS  |7    |3  |0     |
-|LAZIO     |7    |5  |0     |
-|FROSINONE |7    |6  |1     |
-|EMPOLI    |7    |8  |1     |
-|CHIEVO    |6    |5  |0     |
-|UDINESE   |6    |6  |2     |
-|ROMA      |5    |4  |1     |
-|ATALANTA  |4    |4  |0     |
-|CAGLIARI  |4    |3  |0     |
-|PARMA     |4    |7  |0     |
-|BOLOGNA   |4    |3  |0     |
-|SASSUOLO  |3    |4  |0     |
-|INTER     |3    |3  |0     |
-|NAPOLI    |3    |5  |0     |
-|FIORENTINA|3    |4  |1     |
-|SAMPDORIA |1    |4  |0     |
- 
---------------------------- 
-DAY 5 
-FIORENTINA 1 - 1 ATALANTA   
- FROSINONE 1 - 1 EMPOLI     
-     GENOA 2 - 3 CHIEVO     
-     INTER 2 - 3 CAGLIARI   
-  JUVENTUS 1 - 0 BOLOGNA    
-     LAZIO 2 - 1 UDINESE    
-     MILAN 0 - 2 TORINO     
-    NAPOLI 0 - 0 SPAL       
-     PARMA 1 - 0 SASSUOLO   
-      ROMA 3 - 2 SAMPDORIA  
- 
-PLACEMENT:
-|SQUADRA   |PUNTI|GOL|STRIKE|
-|TORINO    |12   |8  |2     |
-|SPAL      |11   |9  |0     |
-|GENOA     |10   |11 |0     |
-|JUVENTUS  |10   |4  |1     |
-|LAZIO     |10   |7  |1     |
-|CHIEVO    |9    |8  |1     |
-|MILAN     |8    |6  |0     |
-|FROSINONE |8    |7  |0     |
-|EMPOLI    |8    |9  |0     |
-|ROMA      |8    |7  |2     |
-|CAGLIARI  |7    |6  |1     |
-|PARMA     |7    |8  |1     |
-|UDINESE   |6    |7  |0     |
-|ATALANTA  |5    |5  |0     |
-|BOLOGNA   |4    |3  |0     |
-|NAPOLI    |4    |5  |0     |
-|FIORENTINA|4    |5  |0     |
-|SASSUOLO  |3    |4  |0     |
-|INTER     |3    |5  |0     |
-|SAMPDORIA |1    |6  |0     |
- 
---------------------------- 
-DAY 6 
- FROSINONE 1 - 1 ATALANTA   
-     GENOA 1 - 1 FIORENTINA 
-     INTER 2 - 0 EMPOLI     
-  JUVENTUS 0 - 1 CHIEVO     
-     LAZIO 3 - 1 CAGLIARI   
-     MILAN 1 - 1 BOLOGNA    
-    NAPOLI 2 - 1 UDINESE    
-     PARMA 2 - 0 TORINO     
-      ROMA 0 - 1 SPAL       
- SAMPDORIA 0 - 1 SASSUOLO   
- 
-PLACEMENT:
-|SQUADRA   |PUNTI|GOL|STRIKE|
-|SPAL      |14   |10 |1     |
-|LAZIO     |13   |10 |2     |
-|TORINO    |12   |8  |0     |
-|CHIEVO    |12   |9  |2     |
-|GENOA     |11   |12 |0     |
-|JUVENTUS  |10   |4  |0     |
-|PARMA     |10   |10 |2     |
-|MILAN     |9    |7  |0     |
-|FROSINONE |9    |8  |0     |
-|EMPOLI    |8    |9  |0     |
-|ROMA      |8    |7  |0     |
-|CAGLIARI  |7    |7  |0     |
-|NAPOLI    |7    |7  |1     |
-|UDINESE   |6    |8  |0     |
-|ATALANTA  |6    |6  |0     |
-|SASSUOLO  |6    |5  |1     |
-|INTER     |6    |7  |1     |
-|BOLOGNA   |5    |4  |0     |
-|FIORENTINA|5    |6  |0     |
-|SAMPDORIA |1    |6  |0     |
- 
---------------------------- 
-DAY 7 
-     GENOA 3 - 1 ATALANTA   
-     INTER 0 - 3 FROSINONE  
-  JUVENTUS 1 - 0 FIORENTINA 
-     LAZIO 2 - 1 EMPOLI     
-     MILAN 1 - 1 CHIEVO     
-    NAPOLI 0 - 2 CAGLIARI   
-     PARMA 1 - 1 BOLOGNA    
-      ROMA 2 - 0 UDINESE    
- SAMPDORIA 0 - 3 TORINO     
-  SASSUOLO 0 - 0 SPAL       
- 
-PLACEMENT:
-|SQUADRA   |PUNTI|GOL|STRIKE|
-|LAZIO     |16   |12 |3     |
-|SPAL      |15   |10 |0     |
-|TORINO    |15   |11 |1     |
-|GENOA     |14   |15 |1     |
-|CHIEVO    |13   |10 |0     |
-|JUVENTUS  |13   |5  |1     |
-|FROSINONE |12   |11 |1     |
-|PARMA     |11   |11 |0     |
-|ROMA      |11   |9  |1     |
-|MILAN     |10   |8  |0     |
-|CAGLIARI  |10   |9  |1     |
-|EMPOLI    |8    |10 |0     |
-|NAPOLI    |7    |7  |0     |
-|SASSUOLO  |7    |5  |0     |
-|UDINESE   |6    |8  |0     |
-|ATALANTA  |6    |7  |0     |
-|INTER     |6    |7  |0     |
-|BOLOGNA   |6    |5  |0     |
-|FIORENTINA|5    |6  |0     |
-|SAMPDORIA |1    |6  |0     |
- 
---------------------------- 
-DAY 8 
-     INTER 3 - 3 ATALANTA   
-  JUVENTUS 2 - 1 GENOA      
-     LAZIO 0 - 2 FROSINONE  
-     MILAN 1 - 0 FIORENTINA 
-    NAPOLI 1 - 2 EMPOLI     
-     PARMA 1 - 2 CHIEVO     
-      ROMA 3 - 1 CAGLIARI   
- SAMPDORIA 1 - 2 BOLOGNA    
-  SASSUOLO 0 - 1 UDINESE    
-      SPAL 1 - 1 TORINO     
- 
-PLACEMENT:
-|SQUADRA   |PUNTI|GOL|STRIKE|
-|LAZIO     |16   |12 |0     |
-|SPAL      |16   |11 |0     |
-|TORINO    |16   |12 |0     |
-|CHIEVO    |16   |12 |1     |
-|JUVENTUS  |16   |7  |2     |
-|FROSINONE |15   |13 |2     |
-|GENOA     |14   |16 |0     |
-|ROMA      |14   |12 |2     |
-|MILAN     |13   |9  |1     |
-|PARMA     |11   |12 |0     |
-|EMPOLI    |11   |12 |1     |
-|CAGLIARI  |10   |10 |0     |
-|UDINESE   |9    |9  |1     |
-|BOLOGNA   |9    |7  |1     |
-|NAPOLI    |7    |8  |0     |
-|SASSUOLO  |7    |5  |0     |
-|ATALANTA  |7    |10 |0     |
-|INTER     |7    |10 |0     |
-|FIORENTINA|5    |6  |0     |
-|SAMPDORIA |1    |7  |0     |
- 
---------------------------- 
-DAY 9 
-  JUVENTUS 2 - 1 ATALANTA   
-     LAZIO 1 - 2 INTER      
-     MILAN 0 - 1 GENOA      
-    NAPOLI 1 - 3 FROSINONE  
-     PARMA 3 - 1 FIORENTINA 
-      ROMA 2 - 1 EMPOLI     
- SAMPDORIA 1 - 1 CHIEVO     
-  SASSUOLO 2 - 1 CAGLIARI   
-      SPAL 2 - 2 BOLOGNA    
-    TORINO 2 - 0 UDINESE    
- 
-PLACEMENT:
-|SQUADRA   |PUNTI|GOL|STRIKE|
-|TORINO    |19   |14 |1     |
-|JUVENTUS  |19   |9  |3     |
-|FROSINONE |18   |16 |3     |
-|SPAL      |17   |13 |0     |
-|CHIEVO    |17   |13 |0     |
-|GENOA     |17   |17 |1     |
-|ROMA      |17   |14 |3     |
-|LAZIO     |16   |13 |0     |
-|PARMA     |14   |15 |1     |
-|MILAN     |13   |9  |0     |
-|EMPOLI    |11   |13 |0     |
-|CAGLIARI  |10   |11 |0     |
-|BOLOGNA   |10   |9  |0     |
-|SASSUOLO  |10   |7  |1     |
-|INTER     |10   |12 |1     |
-|UDINESE   |9    |9  |0     |
-|NAPOLI    |7    |9  |0     |
-|ATALANTA  |7    |11 |0     |
-|FIORENTINA|5    |7  |0     |
-|SAMPDORIA |2    |8  |0     |
- 
---------------------------- 
-DAY 10 
-     LAZIO 2 - 3 ATALANTA   
-     MILAN 0 - 2 JUVENTUS   
-    NAPOLI 3 - 1 INTER      
-     PARMA 1 - 1 GENOA      
-      ROMA 3 - 1 FROSINONE  
- SAMPDORIA 2 - 1 FIORENTINA 
-  SASSUOLO 2 - 0 EMPOLI     
-      SPAL 0 - 1 CHIEVO     
-    TORINO 2 - 1 CAGLIARI   
-   UDINESE 1 - 1 BOLOGNA    
- 
-PLACEMENT:
-|SQUADRA   |PUNTI|GOL|STRIKE|
-|TORINO    |22   |16 |2     |
-|JUVENTUS  |22   |11 |4     |
-|CHIEVO    |20   |14 |1     |
-|ROMA      |20   |17 |4     |
-|FROSINONE |18   |17 |0     |
-|GENOA     |18   |18 |0     |
-|SPAL      |17   |13 |0     |
-|LAZIO     |16   |15 |0     |
-|PARMA     |15   |16 |0     |
-|MILAN     |13   |9  |0     |
-|SASSUOLO  |13   |9  |2     |
-|EMPOLI    |11   |13 |0     |
-|BOLOGNA   |11   |10 |0     |
-|CAGLIARI  |10   |12 |0     |
-|INTER     |10   |13 |0     |
-|UDINESE   |10   |10 |0     |
-|NAPOLI    |10   |12 |1     |
-|ATALANTA  |10   |14 |1     |
-|FIORENTINA|5    |8  |0     |
-|SAMPDORIA |5    |10 |1     |
- 
---------------------------- 
-DAY 11 
-     MILAN 1 - 1 ATALANTA   
-    NAPOLI 2 - 1 LAZIO      
-     PARMA 1 - 2 JUVENTUS   
-      ROMA 3 - 2 INTER      
- SAMPDORIA 2 - 1 GENOA      
-  SASSUOLO 0 - 1 FROSINONE  
-      SPAL 0 - 1 FIORENTINA 
-    TORINO 1 - 1 EMPOLI     
-   UDINESE 1 - 2 CHIEVO     
-   BOLOGNA 2 - 1 CAGLIARI   
- 
-PLACEMENT:
-|SQUADRA   |PUNTI|GOL|STRIKE|
-|JUVENTUS  |25   |13 |5     |
-|TORINO    |23   |17 |0     |
-|CHIEVO    |23   |16 |2     |
-|ROMA      |23   |20 |5     |
-|FROSINONE |21   |18 |1     |
-|GENOA     |18   |19 |0     |
-|SPAL      |17   |13 |0     |
-|LAZIO     |16   |16 |0     |
-|PARMA     |15   |17 |0     |
-|MILAN     |14   |10 |0     |
-|BOLOGNA   |14   |12 |1     |
-|SASSUOLO  |13   |9  |0     |
-|NAPOLI    |13   |14 |2     |
-|EMPOLI    |12   |14 |0     |
-|ATALANTA  |11   |15 |0     |
-|CAGLIARI  |10   |13 |0     |
-|INTER     |10   |15 |0     |
-|UDINESE   |10   |11 |0     |
-|FIORENTINA|8    |9  |1     |
-|SAMPDORIA |8    |12 |2     |
- 
---------------------------- 
-DAY 12 
-    NAPOLI 2 - 1 ATALANTA   
-     PARMA 2 - 2 MILAN      
-      ROMA 1 - 2 LAZIO      
- SAMPDORIA 1 - 3 JUVENTUS   
-  SASSUOLO 0 - 1 INTER      
-      SPAL 2 - 2 GENOA      
-    TORINO 0 - 0 FROSINONE  
-   UDINESE 0 - 0 FIORENTINA 
-   BOLOGNA 3 - 0 EMPOLI     
-  CAGLIARI 1 - 0 CHIEVO     
- 
-PLACEMENT:
-|SQUADRA   |PUNTI|GOL|STRIKE|
-|JUVENTUS  |28   |16 |6     |
-|TORINO    |24   |17 |0     |
-|CHIEVO    |23   |16 |0     |
-|ROMA      |23   |21 |0     |
-|FROSINONE |22   |18 |0     |
-|GENOA     |19   |21 |0     |
-|LAZIO     |19   |18 |1     |
-|SPAL      |18   |15 |0     |
-|BOLOGNA   |17   |15 |2     |
-|PARMA     |16   |19 |0     |
-|NAPOLI    |16   |16 |3     |
-|MILAN     |15   |12 |0     |
-|SASSUOLO  |13   |9  |0     |
-|CAGLIARI  |13   |14 |1     |
-|INTER     |13   |16 |1     |
-|EMPOLI    |12   |14 |0     |
-|ATALANTA  |11   |16 |0     |
-|UDINESE   |11   |11 |0     |
-|FIORENTINA|9    |9  |0     |
-|SAMPDORIA |8    |13 |0     |
- 
---------------------------- 
-DAY 13 
-     PARMA 2 - 1 ATALANTA   
-      ROMA 4 - 2 NAPOLI     
- SAMPDORIA 0 - 1 MILAN      
-  SASSUOLO 1 - 0 LAZIO      
-      SPAL 0 - 1 JUVENTUS   
-    TORINO 0 - 1 INTER      
-   UDINESE 2 - 2 GENOA      
-   BOLOGNA 0 - 1 FROSINONE  
-  CAGLIARI 2 - 1 FIORENTINA 
-    CHIEVO 1 - 2 EMPOLI     
- 
-PLACEMENT:
-|SQUADRA   |PUNTI|GOL|STRIKE|
-|JUVENTUS  |31   |17 |7     |
-|ROMA      |26   |25 |1     |
-|FROSINONE |25   |19 |1     |
-|TORINO    |24   |17 |0     |
-|CHIEVO    |23   |17 |0     |
-|GENOA     |20   |23 |0     |
-|LAZIO     |19   |18 |0     |
-|PARMA     |19   |21 |1     |
-|SPAL      |18   |15 |0     |
-|MILAN     |18   |13 |1     |
-|BOLOGNA   |17   |15 |0     |
-|NAPOLI    |16   |18 |0     |
-|SASSUOLO  |16   |10 |1     |
-|CAGLIARI  |16   |16 |2     |
-|INTER     |16   |17 |2     |
-|EMPOLI    |15   |16 |1     |
-|UDINESE   |12   |13 |0     |
-|ATALANTA  |11   |17 |0     |
-|FIORENTINA|9    |10 |0     |
-|SAMPDORIA |8    |13 |0     |
- 
---------------------------- 
-DAY 14 
-      ROMA 1 - 3 ATALANTA   
- SAMPDORIA 1 - 3 PARMA      
-  SASSUOLO 0 - 1 NAPOLI     
-      SPAL 1 - 1 MILAN      
-    TORINO 0 - 2 LAZIO      
-   UDINESE 1 - 2 JUVENTUS   
-   BOLOGNA 2 - 1 INTER      
-  CAGLIARI 3 - 1 GENOA      
-    CHIEVO 2 - 3 FROSINONE  
-    EMPOLI 0 - 1 FIORENTINA 
- 
-PLACEMENT:
-|SQUADRA   |PUNTI|GOL|STRIKE|
-|JUVENTUS  |34   |19 |8     |
-|FROSINONE |28   |22 |2     |
-|ROMA      |26   |26 |0     |
-|TORINO    |24   |17 |0     |
-|CHIEVO    |23   |19 |0     |
-|LAZIO     |22   |20 |1     |
-|PARMA     |22   |24 |2     |
-|GENOA     |20   |24 |0     |
-|BOLOGNA   |20   |17 |1     |
-|SPAL      |19   |16 |0     |
-|MILAN     |19   |14 |0     |
-|NAPOLI    |19   |19 |1     |
-|CAGLIARI  |19   |19 |3     |
-|SASSUOLO  |16   |10 |0     |
-|INTER     |16   |18 |0     |
-|EMPOLI    |15   |16 |0     |
-|ATALANTA  |14   |20 |1     |
-|UDINESE   |12   |14 |0     |
-|FIORENTINA|12   |11 |1     |
-|SAMPDORIA |8    |14 |0     |
- 
---------------------------- 
-DAY 15 
- SAMPDORIA 3 - 2 ATALANTA   
-  SASSUOLO 0 - 1 ROMA       
-      SPAL 1 - 1 PARMA      
-    TORINO 1 - 2 NAPOLI     
-   UDINESE 2 - 2 MILAN      
-   BOLOGNA 1 - 0 LAZIO      
-  CAGLIARI 0 - 1 JUVENTUS   
-    CHIEVO 3 - 1 INTER      
-    EMPOLI 2 - 0 GENOA      
-FIORENTINA 1 - 0 FROSINONE  
- 
-PLACEMENT:
-|SQUADRA   |PUNTI|GOL|STRIKE|
-|JUVENTUS  |37   |20 |9     |
-|ROMA      |29   |27 |1     |
-|FROSINONE |28   |22 |0     |
-|CHIEVO    |26   |22 |1     |
-|TORINO    |24   |18 |0     |
-|PARMA     |23   |25 |0     |
-|BOLOGNA   |23   |18 |2     |
-|LAZIO     |22   |20 |0     |
-|NAPOLI    |22   |21 |2     |
-|GENOA     |20   |24 |0     |
-|SPAL      |20   |17 |0     |
-|MILAN     |20   |16 |0     |
-|CAGLIARI  |19   |19 |0     |
-|EMPOLI    |18   |18 |1     |
-|SASSUOLO  |16   |10 |0     |
-|INTER     |16   |19 |0     |
-|FIORENTINA|15   |12 |2     |
-|ATALANTA  |14   |22 |0     |
-|UDINESE   |13   |16 |0     |
-|SAMPDORIA |11   |17 |1     |
- 
---------------------------- 
-DAY 16 
-  SASSUOLO 3 - 2 ATALANTA   
-      SPAL 3 - 2 SAMPDORIA  
-    TORINO 1 - 2 ROMA       
-   UDINESE 2 - 2 PARMA      
-   BOLOGNA 3 - 0 NAPOLI     
-  CAGLIARI 2 - 1 MILAN      
-    CHIEVO 2 - 0 LAZIO      
-    EMPOLI 0 - 0 JUVENTUS   
-FIORENTINA 2 - 3 INTER      
- FROSINONE 4 - 0 GENOA      
- 
-PLACEMENT:
-|SQUADRA   |PUNTI|GOL|STRIKE|
-|JUVENTUS  |38   |20 |0     |
-|ROMA      |32   |29 |2     |
-|FROSINONE |31   |26 |1     |
-|CHIEVO    |29   |24 |2     |
-|BOLOGNA   |26   |21 |3     |
-|TORINO    |24   |19 |0     |
-|PARMA     |24   |27 |0     |
-|SPAL      |23   |20 |1     |
-|LAZIO     |22   |20 |0     |
-|NAPOLI    |22   |21 |0     |
-|CAGLIARI  |22   |21 |1     |
-|GENOA     |20   |24 |0     |
-|MILAN     |20   |17 |0     |
-|EMPOLI    |19   |18 |0     |
-|SASSUOLO  |19   |13 |1     |
-|INTER     |19   |22 |1     |
-|FIORENTINA|15   |14 |0     |
-|ATALANTA  |14   |24 |0     |
-|UDINESE   |14   |18 |0     |
-|SAMPDORIA |11   |19 |0     |
- 
---------------------------- 
-DAY 17 
-      SPAL 3 - 0 ATALANTA   
-    TORINO 1 - 3 SASSUOLO   
-   UDINESE 2 - 1 SAMPDORIA  
-   BOLOGNA 1 - 1 ROMA       
-  CAGLIARI 2 - 3 PARMA      
-    CHIEVO 2 - 0 NAPOLI     
-    EMPOLI 1 - 2 MILAN      
-FIORENTINA 1 - 2 LAZIO      
- FROSINONE 0 - 1 JUVENTUS   
-     GENOA 0 - 2 INTER      
- 
-PLACEMENT:
-|SQUADRA   |PUNTI|GOL|STRIKE|
-|JUVENTUS  |41   |21 |1     |
-|ROMA      |33   |30 |0     |
-|CHIEVO    |32   |26 |3     |
-|FROSINONE |31   |26 |0     |
-|BOLOGNA   |27   |22 |0     |
-|PARMA     |27   |30 |1     |
-|SPAL      |26   |23 |2     |
-|LAZIO     |25   |22 |1     |
-|TORINO    |24   |20 |0     |
-|MILAN     |23   |19 |1     |
-|NAPOLI    |22   |21 |0     |
-|CAGLIARI  |22   |23 |0     |
-|SASSUOLO  |22   |16 |2     |
-|INTER     |22   |24 |2     |
-|GENOA     |20   |24 |0     |
-|EMPOLI    |19   |19 |0     |
-|UDINESE   |17   |20 |1     |
-|FIORENTINA|15   |15 |0     |
-|ATALANTA  |14   |24 |0     |
-|SAMPDORIA |11   |20 |0     |
- 
---------------------------- 
-DAY 18 
-    TORINO 1 - 1 ATALANTA   
-   UDINESE 2 - 1 SPAL       
-   BOLOGNA 0 - 1 SASSUOLO   
-  CAGLIARI 0 - 1 SAMPDORIA  
-    CHIEVO 2 - 3 ROMA       
-    EMPOLI 2 - 0 PARMA      
-FIORENTINA 1 - 1 NAPOLI     
- FROSINONE 1 - 1 MILAN      
-     GENOA 1 - 2 LAZIO      
-     INTER 1 - 3 JUVENTUS   
- 
-PLACEMENT:
-|SQUADRA   |PUNTI|GOL|STRIKE|
-|JUVENTUS  |44   |24 |2     |
-|ROMA      |36   |33 |1     |
-|CHIEVO    |32   |28 |0     |
-|FROSINONE |32   |27 |0     |
-|LAZIO     |28   |24 |2     |
-|BOLOGNA   |27   |22 |0     |
-|PARMA     |27   |30 |0     |
-|SPAL      |26   |24 |0     |
-|TORINO    |25   |21 |0     |
-|SASSUOLO  |25   |17 |3     |
-|MILAN     |24   |20 |0     |
-|NAPOLI    |23   |22 |0     |
-|CAGLIARI  |22   |23 |0     |
-|INTER     |22   |25 |0     |
-|EMPOLI    |22   |21 |1     |
-|GENOA     |20   |25 |0     |
-|UDINESE   |20   |22 |2     |
-|FIORENTINA|16   |16 |0     |
-|ATALANTA  |15   |25 |0     |
-|SAMPDORIA |14   |21 |1     |
- 
---------------------------- 
-DAY 19 
-   UDINESE 0 - 2 ATALANTA   
-   BOLOGNA 2 - 1 TORINO     
-  CAGLIARI 1 - 0 SPAL       
-    CHIEVO 3 - 1 SASSUOLO   
-    EMPOLI 1 - 3 SAMPDORIA  
-FIORENTINA 1 - 3 ROMA       
- FROSINONE 2 - 3 PARMA      
-     GENOA 0 - 1 NAPOLI     
-     INTER 3 - 3 MILAN      
+  ATALANTA 1 - 1 UDINESE    
+   BOLOGNA 2 - 3 TORINO     
+  CAGLIARI 2 - 0 SPAL       
+    CHIEVO 1 - 1 SASSUOLO   
+    EMPOLI 0 - 1 SAMPDORIA  
+FIORENTINA 1 - 0 ROMA       
+ FROSINONE 2 - 2 PARMA      
+     GENOA 2 - 2 NAPOLI     
+     INTER 1 - 1 MILAN      
   JUVENTUS 1 - 1 LAZIO      
  
 PLACEMENT:
 |SQUADRA   |PUNTI|GOL|STRIKE|
-|JUVENTUS  |45   |25 |0     |
-|ROMA      |39   |36 |2     |
-|CHIEVO    |35   |31 |1     |
-|FROSINONE |32   |29 |0     |
-|BOLOGNA   |30   |24 |1     |
-|PARMA     |30   |33 |1     |
-|LAZIO     |29   |25 |0     |
-|SPAL      |26   |24 |0     |
-|NAPOLI    |26   |23 |1     |
-|TORINO    |25   |22 |0     |
-|SASSUOLO  |25   |18 |0     |
-|MILAN     |25   |23 |0     |
-|CAGLIARI  |25   |24 |1     |
-|INTER     |23   |28 |0     |
-|EMPOLI    |22   |22 |0     |
-|GENOA     |20   |25 |0     |
-|UDINESE   |20   |22 |0     |
-|ATALANTA  |18   |27 |1     |
-|SAMPDORIA |17   |24 |2     |
-|FIORENTINA|16   |17 |0     |
+|CAGLIARI  |3    |2  |1     |
+|FIORENTINA|3    |1  |1     |
+|SAMPDORIA |3    |1  |1     |
+|TORINO    |3    |3  |1     |
+|ATALANTA  |1    |1  |0     |
+|CHIEVO    |1    |1  |0     |
+|FROSINONE |1    |2  |0     |
+|GENOA     |1    |2  |0     |
+|INTER     |1    |1  |0     |
+|JUVENTUS  |1    |1  |0     |
+|LAZIO     |1    |1  |0     |
+|MILAN     |1    |1  |0     |
+|NAPOLI    |1    |2  |0     |
+|PARMA     |1    |2  |0     |
+|SASSUOLO  |1    |1  |0     |
+|UDINESE   |1    |1  |0     |
+|BOLOGNA   |0    |2  |0     |
+|EMPOLI    |0    |0  |0     |
+|ROMA      |0    |0  |0     |
+|SPAL      |0    |0  |0     |
+ 
+--------------------------- 
+DAY 2 
+     LAZIO 2 - 0 ATALANTA   
+   UDINESE 1 - 0 BOLOGNA    
+    TORINO 2 - 1 CAGLIARI   
+      SPAL 1 - 1 CHIEVO     
+  SASSUOLO 1 - 2 EMPOLI     
+ SAMPDORIA 1 - 2 FIORENTINA 
+      ROMA 2 - 2 FROSINONE  
+     PARMA 1 - 1 GENOA      
+    NAPOLI 2 - 2 INTER      
+     MILAN 0 - 2 JUVENTUS   
+ 
+PLACEMENT:
+|SQUADRA   |PUNTI|GOL|STRIKE|
+|FIORENTINA|6    |3  |2     |
+|TORINO    |6    |5  |2     |
+|JUVENTUS  |4    |3  |1     |
+|LAZIO     |4    |3  |1     |
+|UDINESE   |4    |2  |1     |
+|CAGLIARI  |3    |3  |0     |
+|SAMPDORIA |3    |2  |0     |
+|EMPOLI    |3    |2  |1     |
+|CHIEVO    |2    |2  |0     |
+|FROSINONE |2    |4  |0     |
+|GENOA     |2    |3  |0     |
+|INTER     |2    |3  |0     |
+|NAPOLI    |2    |4  |0     |
+|PARMA     |2    |3  |0     |
+|ATALANTA  |1    |1  |0     |
+|MILAN     |1    |1  |0     |
+|SASSUOLO  |1    |2  |0     |
+|ROMA      |1    |2  |0     |
+|SPAL      |1    |1  |0     |
+|BOLOGNA   |0    |2  |0     |
+ 
+--------------------------- 
+DAY 3 
+  ATALANTA 1 - 1 MILAN      
+   BOLOGNA 1 - 1 LAZIO      
+  CAGLIARI 2 - 2 UDINESE    
+    CHIEVO 2 - 2 TORINO     
+    EMPOLI 3 - 1 SPAL       
+FIORENTINA 1 - 1 SASSUOLO   
+ FROSINONE 3 - 0 SAMPDORIA  
+     GENOA 1 - 2 ROMA       
+     INTER 2 - 2 PARMA      
+  JUVENTUS 0 - 0 NAPOLI     
+ 
+PLACEMENT:
+|SQUADRA   |PUNTI|GOL|STRIKE|
+|FIORENTINA|7    |4  |0     |
+|TORINO    |7    |7  |0     |
+|EMPOLI    |6    |5  |2     |
+|JUVENTUS  |5    |3  |0     |
+|LAZIO     |5    |4  |0     |
+|UDINESE   |5    |4  |0     |
+|FROSINONE |5    |7  |1     |
+|CAGLIARI  |4    |5  |0     |
+|ROMA      |4    |4  |1     |
+|SAMPDORIA |3    |2  |0     |
+|CHIEVO    |3    |4  |0     |
+|INTER     |3    |5  |0     |
+|NAPOLI    |3    |4  |0     |
+|PARMA     |3    |5  |0     |
+|GENOA     |2    |4  |0     |
+|ATALANTA  |2    |2  |0     |
+|MILAN     |2    |2  |0     |
+|SASSUOLO  |2    |3  |0     |
+|SPAL      |1    |2  |0     |
+|BOLOGNA   |1    |3  |0     |
+ 
+--------------------------- 
+DAY 4 
+    NAPOLI 1 - 2 ATALANTA   
+     MILAN 0 - 2 BOLOGNA    
+     LAZIO 1 - 2 CAGLIARI   
+   UDINESE 0 - 2 CHIEVO     
+    TORINO 3 - 3 EMPOLI     
+      SPAL 0 - 1 FIORENTINA 
+  SASSUOLO 0 - 0 FROSINONE  
+ SAMPDORIA 0 - 1 GENOA      
+      ROMA 1 - 0 INTER      
+     PARMA 1 - 1 JUVENTUS   
+ 
+PLACEMENT:
+|SQUADRA   |PUNTI|GOL|STRIKE|
+|FIORENTINA|10   |5  |1     |
+|TORINO    |8    |10 |0     |
+|EMPOLI    |7    |8  |0     |
+|CAGLIARI  |7    |7  |1     |
+|ROMA      |7    |5  |2     |
+|JUVENTUS  |6    |4  |0     |
+|FROSINONE |6    |7  |0     |
+|CHIEVO    |6    |6  |1     |
+|LAZIO     |5    |5  |0     |
+|UDINESE   |5    |4  |0     |
+|GENOA     |5    |5  |1     |
+|ATALANTA  |5    |4  |1     |
+|PARMA     |4    |6  |0     |
+|BOLOGNA   |4    |5  |1     |
+|SAMPDORIA |3    |2  |0     |
+|INTER     |3    |5  |0     |
+|NAPOLI    |3    |5  |0     |
+|SASSUOLO  |3    |3  |0     |
+|MILAN     |2    |2  |0     |
+|SPAL      |1    |2  |0     |
+ 
+--------------------------- 
+DAY 5 
+  ATALANTA 0 - 2 PARMA      
+   BOLOGNA 2 - 3 NAPOLI     
+  CAGLIARI 0 - 0 MILAN      
+    CHIEVO 0 - 1 LAZIO      
+    EMPOLI 1 - 1 UDINESE    
+FIORENTINA 2 - 4 TORINO     
+ FROSINONE 0 - 0 SPAL       
+     GENOA 1 - 0 SASSUOLO   
+     INTER 1 - 3 SAMPDORIA  
+  JUVENTUS 2 - 1 ROMA       
+ 
+PLACEMENT:
+|SQUADRA   |PUNTI|GOL|STRIKE|
+|TORINO    |11   |14 |1     |
+|FIORENTINA|10   |7  |0     |
+|JUVENTUS  |9    |6  |1     |
+|EMPOLI    |8    |9  |0     |
+|CAGLIARI  |8    |7  |0     |
+|LAZIO     |8    |6  |1     |
+|GENOA     |8    |6  |2     |
+|ROMA      |7    |6  |0     |
+|FROSINONE |7    |7  |0     |
+|PARMA     |7    |8  |1     |
+|CHIEVO    |6    |6  |0     |
+|UDINESE   |6    |5  |0     |
+|SAMPDORIA |6    |5  |1     |
+|NAPOLI    |6    |8  |1     |
+|ATALANTA  |5    |4  |0     |
+|BOLOGNA   |4    |7  |0     |
+|INTER     |3    |6  |0     |
+|SASSUOLO  |3    |3  |0     |
+|MILAN     |3    |2  |0     |
+|SPAL      |2    |2  |0     |
+ 
+--------------------------- 
+DAY 6 
+      ROMA 1 - 1 ATALANTA   
+     PARMA 0 - 0 BOLOGNA    
+    NAPOLI 0 - 0 CAGLIARI   
+     MILAN 1 - 1 CHIEVO     
+     LAZIO 1 - 2 EMPOLI     
+   UDINESE 1 - 2 FIORENTINA 
+    TORINO 2 - 4 FROSINONE  
+      SPAL 2 - 1 GENOA      
+  SASSUOLO 1 - 0 INTER      
+ SAMPDORIA 1 - 3 JUVENTUS   
+ 
+PLACEMENT:
+|SQUADRA   |PUNTI|GOL|STRIKE|
+|FIORENTINA|13   |9  |1     |
+|JUVENTUS  |12   |9  |2     |
+|TORINO    |11   |16 |0     |
+|EMPOLI    |11   |11 |1     |
+|FROSINONE |10   |11 |1     |
+|CAGLIARI  |9    |7  |0     |
+|LAZIO     |8    |7  |0     |
+|GENOA     |8    |7  |0     |
+|ROMA      |8    |7  |0     |
+|PARMA     |8    |8  |0     |
+|CHIEVO    |7    |7  |0     |
+|NAPOLI    |7    |8  |0     |
+|UDINESE   |6    |6  |0     |
+|SAMPDORIA |6    |6  |0     |
+|ATALANTA  |6    |5  |0     |
+|SASSUOLO  |6    |4  |1     |
+|BOLOGNA   |5    |7  |0     |
+|SPAL      |5    |4  |1     |
+|MILAN     |4    |3  |0     |
+|INTER     |3    |6  |0     |
+ 
+--------------------------- 
+DAY 7 
+  ATALANTA 1 - 1 SAMPDORIA  
+   BOLOGNA 0 - 0 ROMA       
+  CAGLIARI 0 - 2 PARMA      
+    CHIEVO 0 - 1 NAPOLI     
+    EMPOLI 1 - 1 MILAN      
+FIORENTINA 2 - 1 LAZIO      
+ FROSINONE 4 - 2 UDINESE    
+     GENOA 0 - 1 TORINO     
+     INTER 3 - 1 SPAL       
+  JUVENTUS 2 - 2 SASSUOLO   
+ 
+PLACEMENT:
+|SQUADRA   |PUNTI|GOL|STRIKE|
+|FIORENTINA|16   |11 |2     |
+|TORINO    |14   |17 |1     |
+|JUVENTUS  |13   |11 |0     |
+|FROSINONE |13   |15 |2     |
+|EMPOLI    |12   |12 |0     |
+|PARMA     |11   |10 |1     |
+|NAPOLI    |10   |9  |1     |
+|CAGLIARI  |9    |7  |0     |
+|ROMA      |9    |7  |0     |
+|LAZIO     |8    |8  |0     |
+|GENOA     |8    |7  |0     |
+|CHIEVO    |7    |7  |0     |
+|SAMPDORIA |7    |7  |0     |
+|ATALANTA  |7    |6  |0     |
+|SASSUOLO  |7    |6  |0     |
+|UDINESE   |6    |8  |0     |
+|BOLOGNA   |6    |7  |0     |
+|INTER     |6    |9  |1     |
+|SPAL      |5    |5  |0     |
+|MILAN     |5    |4  |0     |
+ 
+--------------------------- 
+DAY 8 
+  SASSUOLO 3 - 1 ATALANTA   
+ SAMPDORIA 0 - 1 BOLOGNA    
+      ROMA 0 - 3 CAGLIARI   
+     PARMA 0 - 1 CHIEVO     
+    NAPOLI 3 - 1 EMPOLI     
+     MILAN 2 - 3 FIORENTINA 
+     LAZIO 1 - 2 FROSINONE  
+   UDINESE 2 - 3 GENOA      
+    TORINO 2 - 1 INTER      
+      SPAL 1 - 2 JUVENTUS   
+ 
+PLACEMENT:
+|SQUADRA   |PUNTI|GOL|STRIKE|
+|FIORENTINA|19   |14 |3     |
+|TORINO    |17   |19 |2     |
+|JUVENTUS  |16   |13 |1     |
+|FROSINONE |16   |17 |3     |
+|NAPOLI    |13   |12 |2     |
+|EMPOLI    |12   |13 |0     |
+|CAGLIARI  |12   |10 |1     |
+|PARMA     |11   |10 |0     |
+|GENOA     |11   |10 |1     |
+|CHIEVO    |10   |8  |1     |
+|SASSUOLO  |10   |9  |1     |
+|ROMA      |9    |7  |0     |
+|BOLOGNA   |9    |8  |1     |
+|LAZIO     |8    |9  |0     |
+|SAMPDORIA |7    |7  |0     |
+|ATALANTA  |7    |7  |0     |
+|UDINESE   |6    |10 |0     |
+|INTER     |6    |10 |0     |
+|SPAL      |5    |6  |0     |
+|MILAN     |5    |6  |0     |
+ 
+--------------------------- 
+DAY 9 
+  ATALANTA 1 - 2 SPAL       
+   BOLOGNA 1 - 0 SASSUOLO   
+  CAGLIARI 2 - 1 SAMPDORIA  
+    CHIEVO 3 - 1 ROMA       
+    EMPOLI 3 - 0 PARMA      
+FIORENTINA 3 - 0 NAPOLI     
+ FROSINONE 1 - 2 MILAN      
+     GENOA 0 - 2 LAZIO      
+     INTER 2 - 2 UDINESE    
+  JUVENTUS 2 - 3 TORINO     
+ 
+PLACEMENT:
+|SQUADRA   |PUNTI|GOL|STRIKE|
+|FIORENTINA|22   |17 |4     |
+|TORINO    |20   |22 |3     |
+|JUVENTUS  |16   |15 |0     |
+|FROSINONE |16   |18 |0     |
+|EMPOLI    |15   |16 |1     |
+|CAGLIARI  |15   |12 |2     |
+|NAPOLI    |13   |12 |0     |
+|CHIEVO    |13   |11 |2     |
+|BOLOGNA   |12   |9  |2     |
+|PARMA     |11   |10 |0     |
+|GENOA     |11   |10 |0     |
+|LAZIO     |11   |11 |1     |
+|SASSUOLO  |10   |9  |0     |
+|ROMA      |9    |8  |0     |
+|SPAL      |8    |8  |1     |
+|MILAN     |8    |8  |1     |
+|SAMPDORIA |7    |8  |0     |
+|ATALANTA  |7    |8  |0     |
+|UDINESE   |7    |12 |0     |
+|INTER     |7    |12 |0     |
+ 
+--------------------------- 
+DAY 10 
+    TORINO 2 - 0 ATALANTA   
+      SPAL 2 - 2 BOLOGNA    
+  SASSUOLO 1 - 3 CAGLIARI   
+ SAMPDORIA 1 - 2 CHIEVO     
+      ROMA 1 - 2 EMPOLI     
+     PARMA 3 - 1 FIORENTINA 
+    NAPOLI 1 - 3 FROSINONE  
+     MILAN 4 - 2 GENOA      
+     LAZIO 0 - 0 INTER      
+   UDINESE 2 - 1 JUVENTUS   
+ 
+PLACEMENT:
+|SQUADRA   |PUNTI|GOL|STRIKE|
+|TORINO    |23   |24 |4     |
+|FIORENTINA|22   |18 |0     |
+|FROSINONE |19   |21 |1     |
+|EMPOLI    |18   |18 |2     |
+|CAGLIARI  |18   |15 |3     |
+|JUVENTUS  |16   |16 |0     |
+|CHIEVO    |16   |13 |3     |
+|PARMA     |14   |13 |1     |
+|NAPOLI    |13   |13 |0     |
+|BOLOGNA   |13   |11 |0     |
+|LAZIO     |12   |11 |0     |
+|GENOA     |11   |12 |0     |
+|MILAN     |11   |12 |2     |
+|SASSUOLO  |10   |10 |0     |
+|UDINESE   |10   |14 |1     |
+|ROMA      |9    |9  |0     |
+|SPAL      |9    |10 |0     |
+|INTER     |8    |12 |0     |
+|SAMPDORIA |7    |9  |0     |
+|ATALANTA  |7    |8  |0     |
+ 
+--------------------------- 
+DAY 11 
+  ATALANTA 3 - 1 UDINESE    
+   BOLOGNA 0 - 3 TORINO     
+  CAGLIARI 0 - 4 SPAL       
+    CHIEVO 1 - 2 SASSUOLO   
+    EMPOLI 1 - 1 SAMPDORIA  
+FIORENTINA 1 - 1 ROMA       
+ FROSINONE 1 - 2 PARMA      
+     GENOA 1 - 2 NAPOLI     
+     INTER 0 - 1 MILAN      
+  JUVENTUS 1 - 3 LAZIO      
+ 
+PLACEMENT:
+|SQUADRA   |PUNTI|GOL|STRIKE|
+|TORINO    |26   |27 |5     |
+|FIORENTINA|23   |19 |0     |
+|FROSINONE |19   |22 |0     |
+|EMPOLI    |19   |19 |0     |
+|CAGLIARI  |18   |15 |0     |
+|PARMA     |17   |15 |2     |
+|JUVENTUS  |16   |17 |0     |
+|CHIEVO    |16   |14 |0     |
+|NAPOLI    |16   |15 |1     |
+|LAZIO     |15   |14 |1     |
+|MILAN     |14   |13 |3     |
+|BOLOGNA   |13   |11 |0     |
+|SASSUOLO  |13   |12 |1     |
+|SPAL      |12   |14 |1     |
+|GENOA     |11   |13 |0     |
+|UDINESE   |10   |15 |0     |
+|ROMA      |10   |10 |0     |
+|ATALANTA  |10   |11 |1     |
+|INTER     |8    |12 |0     |
+|SAMPDORIA |8    |10 |0     |
+ 
+--------------------------- 
+DAY 12 
+     LAZIO 1 - 0 ATALANTA   
+   UDINESE 2 - 1 BOLOGNA    
+    TORINO 2 - 2 CAGLIARI   
+      SPAL 3 - 1 CHIEVO     
+  SASSUOLO 2 - 0 EMPOLI     
+ SAMPDORIA 1 - 2 FIORENTINA 
+      ROMA 0 - 0 FROSINONE  
+     PARMA 2 - 0 GENOA      
+    NAPOLI 1 - 2 INTER      
+     MILAN 2 - 0 JUVENTUS   
+ 
+PLACEMENT:
+|SQUADRA   |PUNTI|GOL|STRIKE|
+|TORINO    |27   |29 |0     |
+|FIORENTINA|26   |21 |1     |
+|FROSINONE |20   |22 |0     |
+|PARMA     |20   |17 |3     |
+|EMPOLI    |19   |19 |0     |
+|CAGLIARI  |19   |17 |0     |
+|LAZIO     |18   |15 |2     |
+|MILAN     |17   |15 |4     |
+|JUVENTUS  |16   |17 |0     |
+|CHIEVO    |16   |15 |0     |
+|NAPOLI    |16   |16 |0     |
+|SASSUOLO  |16   |14 |2     |
+|SPAL      |15   |17 |2     |
+|BOLOGNA   |13   |12 |0     |
+|UDINESE   |13   |17 |1     |
+|GENOA     |11   |13 |0     |
+|ROMA      |11   |10 |0     |
+|INTER     |11   |14 |1     |
+|ATALANTA  |10   |11 |0     |
+|SAMPDORIA |8    |11 |0     |
+ 
+--------------------------- 
+DAY 13 
+  ATALANTA 0 - 1 MILAN      
+   BOLOGNA 2 - 0 LAZIO      
+  CAGLIARI 0 - 0 UDINESE    
+    CHIEVO 1 - 3 TORINO     
+    EMPOLI 1 - 1 SPAL       
+FIORENTINA 4 - 1 SASSUOLO   
+ FROSINONE 2 - 0 SAMPDORIA  
+     GENOA 1 - 0 ROMA       
+     INTER 1 - 2 PARMA      
+  JUVENTUS 1 - 1 NAPOLI     
+ 
+PLACEMENT:
+|SQUADRA   |PUNTI|GOL|STRIKE|
+|TORINO    |30   |32 |1     |
+|FIORENTINA|29   |25 |2     |
+|FROSINONE |23   |24 |1     |
+|PARMA     |23   |19 |4     |
+|EMPOLI    |20   |20 |0     |
+|CAGLIARI  |20   |17 |0     |
+|MILAN     |20   |16 |5     |
+|LAZIO     |18   |15 |0     |
+|JUVENTUS  |17   |18 |0     |
+|NAPOLI    |17   |17 |0     |
+|CHIEVO    |16   |16 |0     |
+|SASSUOLO  |16   |15 |0     |
+|SPAL      |16   |18 |0     |
+|BOLOGNA   |16   |14 |1     |
+|UDINESE   |14   |17 |0     |
+|GENOA     |14   |14 |1     |
+|ROMA      |11   |10 |0     |
+|INTER     |11   |15 |0     |
+|ATALANTA  |10   |11 |0     |
+|SAMPDORIA |8    |11 |0     |
+ 
+--------------------------- 
+DAY 14 
+    NAPOLI 2 - 1 ATALANTA   
+     MILAN 2 - 2 BOLOGNA    
+     LAZIO 4 - 2 CAGLIARI   
+   UDINESE 1 - 2 CHIEVO     
+    TORINO 2 - 0 EMPOLI     
+      SPAL 1 - 1 FIORENTINA 
+  SASSUOLO 3 - 0 FROSINONE  
+ SAMPDORIA 2 - 2 GENOA      
+      ROMA 2 - 1 INTER      
+     PARMA 3 - 0 JUVENTUS   
+ 
+PLACEMENT:
+|SQUADRA   |PUNTI|GOL|STRIKE|
+|TORINO    |33   |34 |2     |
+|FIORENTINA|30   |26 |0     |
+|PARMA     |26   |22 |5     |
+|FROSINONE |23   |24 |0     |
+|MILAN     |21   |18 |0     |
+|LAZIO     |21   |19 |1     |
+|EMPOLI    |20   |20 |0     |
+|CAGLIARI  |20   |19 |0     |
+|NAPOLI    |20   |19 |1     |
+|CHIEVO    |19   |18 |1     |
+|SASSUOLO  |19   |18 |1     |
+|JUVENTUS  |17   |18 |0     |
+|SPAL      |17   |19 |0     |
+|BOLOGNA   |17   |16 |0     |
+|GENOA     |15   |16 |0     |
+|UDINESE   |14   |18 |0     |
+|ROMA      |14   |12 |1     |
+|INTER     |11   |16 |0     |
+|ATALANTA  |10   |12 |0     |
+|SAMPDORIA |9    |13 |0     |
+ 
+--------------------------- 
+DAY 15 
+  ATALANTA 0 - 2 PARMA      
+   BOLOGNA 0 - 2 NAPOLI     
+  CAGLIARI 1 - 2 MILAN      
+    CHIEVO 0 - 1 LAZIO      
+    EMPOLI 2 - 1 UDINESE    
+FIORENTINA 2 - 0 TORINO     
+ FROSINONE 1 - 2 SPAL       
+     GENOA 0 - 2 SASSUOLO   
+     INTER 1 - 1 SAMPDORIA  
+  JUVENTUS 0 - 2 ROMA       
+ 
+PLACEMENT:
+|SQUADRA   |PUNTI|GOL|STRIKE|
+|TORINO    |33   |34 |0     |
+|FIORENTINA|33   |28 |1     |
+|PARMA     |29   |24 |6     |
+|MILAN     |24   |20 |1     |
+|LAZIO     |24   |20 |2     |
+|FROSINONE |23   |25 |0     |
+|EMPOLI    |23   |22 |1     |
+|NAPOLI    |23   |21 |2     |
+|SASSUOLO  |22   |20 |2     |
+|CAGLIARI  |20   |20 |0     |
+|SPAL      |20   |21 |1     |
+|CHIEVO    |19   |18 |0     |
+|JUVENTUS  |17   |18 |0     |
+|BOLOGNA   |17   |16 |0     |
+|ROMA      |17   |14 |2     |
+|GENOA     |15   |16 |0     |
+|UDINESE   |14   |19 |0     |
+|INTER     |12   |17 |0     |
+|ATALANTA  |10   |12 |0     |
+|SAMPDORIA |10   |14 |0     |
+ 
+--------------------------- 
+DAY 16 
+      ROMA 3 - 2 ATALANTA   
+     PARMA 2 - 0 BOLOGNA    
+    NAPOLI 1 - 1 CAGLIARI   
+     MILAN 1 - 0 CHIEVO     
+     LAZIO 0 - 0 EMPOLI     
+   UDINESE 0 - 0 FIORENTINA 
+    TORINO 0 - 0 FROSINONE  
+      SPAL 1 - 3 GENOA      
+  SASSUOLO 0 - 2 INTER      
+ SAMPDORIA 0 - 1 JUVENTUS   
+ 
+PLACEMENT:
+|SQUADRA   |PUNTI|GOL|STRIKE|
+|TORINO    |34   |34 |0     |
+|FIORENTINA|34   |28 |0     |
+|PARMA     |32   |26 |7     |
+|MILAN     |27   |21 |2     |
+|LAZIO     |25   |20 |0     |
+|FROSINONE |24   |25 |0     |
+|EMPOLI    |24   |22 |0     |
+|NAPOLI    |24   |22 |0     |
+|SASSUOLO  |22   |20 |0     |
+|CAGLIARI  |21   |21 |0     |
+|SPAL      |20   |22 |0     |
+|JUVENTUS  |20   |19 |1     |
+|ROMA      |20   |17 |3     |
+|CHIEVO    |19   |18 |0     |
+|GENOA     |18   |19 |1     |
+|BOLOGNA   |17   |16 |0     |
+|UDINESE   |15   |19 |0     |
+|INTER     |15   |19 |1     |
+|ATALANTA  |10   |14 |0     |
+|SAMPDORIA |10   |14 |0     |
+ 
+--------------------------- 
+DAY 17 
+  ATALANTA 0 - 2 SAMPDORIA  
+   BOLOGNA 3 - 1 ROMA       
+  CAGLIARI 1 - 1 PARMA      
+    CHIEVO 2 - 2 NAPOLI     
+    EMPOLI 3 - 0 MILAN      
+FIORENTINA 0 - 2 LAZIO      
+ FROSINONE 0 - 0 UDINESE    
+     GENOA 2 - 0 TORINO     
+     INTER 3 - 2 SPAL       
+  JUVENTUS 1 - 2 SASSUOLO   
+ 
+PLACEMENT:
+|SQUADRA   |PUNTI|GOL|STRIKE|
+|TORINO    |34   |34 |0     |
+|FIORENTINA|34   |28 |0     |
+|PARMA     |33   |27 |0     |
+|LAZIO     |28   |22 |1     |
+|MILAN     |27   |21 |0     |
+|EMPOLI    |27   |25 |1     |
+|FROSINONE |25   |25 |0     |
+|NAPOLI    |25   |24 |0     |
+|SASSUOLO  |25   |22 |1     |
+|CAGLIARI  |22   |22 |0     |
+|GENOA     |21   |21 |2     |
+|SPAL      |20   |24 |0     |
+|JUVENTUS  |20   |20 |0     |
+|ROMA      |20   |18 |0     |
+|CHIEVO    |20   |20 |0     |
+|BOLOGNA   |20   |19 |1     |
+|INTER     |18   |22 |2     |
+|UDINESE   |16   |19 |0     |
+|SAMPDORIA |13   |16 |1     |
+|ATALANTA  |10   |14 |0     |
+ 
+--------------------------- 
+DAY 18 
+  SASSUOLO 2 - 1 ATALANTA   
+ SAMPDORIA 2 - 3 BOLOGNA    
+      ROMA 1 - 1 CAGLIARI   
+     PARMA 2 - 1 CHIEVO     
+    NAPOLI 0 - 0 EMPOLI     
+     MILAN 1 - 1 FIORENTINA 
+     LAZIO 0 - 0 FROSINONE  
+   UDINESE 3 - 2 GENOA      
+    TORINO 1 - 2 INTER      
+      SPAL 3 - 2 JUVENTUS   
+ 
+PLACEMENT:
+|SQUADRA   |PUNTI|GOL|STRIKE|
+|PARMA     |36   |29 |1     |
+|FIORENTINA|35   |29 |0     |
+|TORINO    |34   |35 |0     |
+|LAZIO     |29   |22 |0     |
+|MILAN     |28   |22 |0     |
+|EMPOLI    |28   |25 |0     |
+|SASSUOLO  |28   |24 |2     |
+|FROSINONE |26   |25 |0     |
+|NAPOLI    |26   |24 |0     |
+|CAGLIARI  |23   |23 |0     |
+|SPAL      |23   |27 |1     |
+|BOLOGNA   |23   |22 |2     |
+|GENOA     |21   |23 |0     |
+|ROMA      |21   |19 |0     |
+|INTER     |21   |24 |3     |
+|JUVENTUS  |20   |22 |0     |
+|CHIEVO    |20   |21 |0     |
+|UDINESE   |19   |22 |1     |
+|SAMPDORIA |13   |18 |0     |
+|ATALANTA  |10   |15 |0     |
+ 
+--------------------------- 
+DAY 19 
+  ATALANTA 1 - 2 SPAL       
+   BOLOGNA 1 - 1 SASSUOLO   
+  CAGLIARI 3 - 0 SAMPDORIA  
+    CHIEVO 1 - 2 ROMA       
+    EMPOLI 2 - 0 PARMA      
+FIORENTINA 2 - 2 NAPOLI     
+ FROSINONE 2 - 3 MILAN      
+     GENOA 1 - 0 LAZIO      
+     INTER 2 - 1 UDINESE    
+  JUVENTUS 3 - 4 TORINO     
+ 
+PLACEMENT:
+|SQUADRA   |PUNTI|GOL|STRIKE|
+|TORINO    |37   |39 |1     |
+|PARMA     |36   |29 |0     |
+|FIORENTINA|36   |31 |0     |
+|MILAN     |31   |25 |1     |
+|EMPOLI    |31   |27 |1     |
+|LAZIO     |29   |22 |0     |
+|SASSUOLO  |29   |25 |0     |
+|NAPOLI    |27   |26 |0     |
+|FROSINONE |26   |27 |0     |
+|CAGLIARI  |26   |26 |1     |
+|SPAL      |26   |29 |2     |
+|BOLOGNA   |24   |23 |0     |
+|GENOA     |24   |24 |1     |
+|ROMA      |24   |21 |1     |
+|INTER     |24   |26 |4     |
+|JUVENTUS  |20   |25 |0     |
+|CHIEVO    |20   |22 |0     |
+|UDINESE   |19   |23 |0     |
+|SAMPDORIA |13   |18 |0     |
+|ATALANTA  |10   |16 |0     |
  
 --------------------------- 
 DAY 20 
-  ATALANTA 0 - 0 BOLOGNA    
-   UDINESE 3 - 0 CAGLIARI   
-    TORINO 0 - 0 CHIEVO     
-      SPAL 0 - 1 EMPOLI     
-  SASSUOLO 2 - 1 FIORENTINA 
- SAMPDORIA 1 - 0 FROSINONE  
-      ROMA 2 - 2 GENOA      
-     PARMA 0 - 3 INTER      
-    NAPOLI 1 - 2 JUVENTUS   
-     MILAN 1 - 0 LAZIO      
+   UDINESE 2 - 2 ATALANTA   
+    TORINO 0 - 0 BOLOGNA    
+      SPAL 2 - 2 CAGLIARI   
+  SASSUOLO 1 - 3 CHIEVO     
+ SAMPDORIA 1 - 1 EMPOLI     
+      ROMA 1 - 2 FIORENTINA 
+     PARMA 2 - 1 FROSINONE  
+    NAPOLI 1 - 1 GENOA      
+     MILAN 3 - 2 INTER      
+     LAZIO 1 - 1 JUVENTUS   
  
 PLACEMENT:
 |SQUADRA   |PUNTI|GOL|STRIKE|
-|JUVENTUS  |48   |27 |1     |
-|ROMA      |40   |38 |0     |
-|CHIEVO    |36   |31 |0     |
-|FROSINONE |32   |29 |0     |
-|BOLOGNA   |31   |24 |0     |
-|PARMA     |30   |33 |0     |
-|LAZIO     |29   |25 |0     |
-|SASSUOLO  |28   |20 |1     |
-|MILAN     |28   |24 |1     |
-|SPAL      |26   |24 |0     |
-|NAPOLI    |26   |24 |0     |
-|TORINO    |26   |22 |0     |
-|INTER     |26   |31 |1     |
-|CAGLIARI  |25   |24 |0     |
-|EMPOLI    |25   |23 |1     |
-|UDINESE   |23   |25 |1     |
-|GENOA     |21   |27 |0     |
-|SAMPDORIA |20   |25 |3     |
-|ATALANTA  |19   |27 |0     |
-|FIORENTINA|16   |18 |0     |
+|PARMA     |39   |31 |1     |
+|FIORENTINA|39   |33 |1     |
+|TORINO    |38   |39 |0     |
+|MILAN     |34   |28 |2     |
+|EMPOLI    |32   |28 |0     |
+|LAZIO     |30   |23 |0     |
+|SASSUOLO  |29   |26 |0     |
+|NAPOLI    |28   |27 |0     |
+|CAGLIARI  |27   |28 |0     |
+|SPAL      |27   |31 |0     |
+|FROSINONE |26   |28 |0     |
+|BOLOGNA   |25   |23 |0     |
+|GENOA     |25   |25 |0     |
+|ROMA      |24   |22 |0     |
+|INTER     |24   |28 |0     |
+|CHIEVO    |23   |25 |1     |
+|JUVENTUS  |21   |26 |0     |
+|UDINESE   |20   |25 |0     |
+|SAMPDORIA |14   |19 |0     |
+|ATALANTA  |11   |18 |0     |
  
 --------------------------- 
 DAY 21 
-  ATALANTA 1 - 2 CAGLIARI   
-   BOLOGNA 1 - 1 CHIEVO     
-   UDINESE 2 - 1 EMPOLI     
-    TORINO 1 - 1 FIORENTINA 
-      SPAL 2 - 2 FROSINONE  
-  SASSUOLO 2 - 1 GENOA      
- SAMPDORIA 3 - 2 INTER      
-      ROMA 1 - 1 JUVENTUS   
-     PARMA 1 - 2 LAZIO      
-    NAPOLI 0 - 1 MILAN      
+  ATALANTA 0 - 3 LAZIO      
+   BOLOGNA 1 - 0 UDINESE    
+  CAGLIARI 3 - 0 TORINO     
+    CHIEVO 0 - 3 SPAL       
+    EMPOLI 3 - 0 SASSUOLO   
+FIORENTINA 3 - 2 SAMPDORIA  
+ FROSINONE 0 - 0 ROMA       
+     GENOA 1 - 1 PARMA      
+     INTER 2 - 1 NAPOLI     
+  JUVENTUS 2 - 3 MILAN      
  
 PLACEMENT:
 |SQUADRA   |PUNTI|GOL|STRIKE|
-|JUVENTUS  |49   |28 |0     |
-|ROMA      |41   |39 |0     |
-|CHIEVO    |37   |32 |0     |
-|FROSINONE |33   |31 |0     |
-|BOLOGNA   |32   |25 |0     |
-|LAZIO     |32   |27 |1     |
-|SASSUOLO  |31   |22 |2     |
-|MILAN     |31   |25 |2     |
-|PARMA     |30   |34 |0     |
-|CAGLIARI  |28   |26 |1     |
-|SPAL      |27   |26 |0     |
-|TORINO    |27   |23 |0     |
-|NAPOLI    |26   |24 |0     |
-|INTER     |26   |33 |0     |
-|UDINESE   |26   |27 |2     |
-|EMPOLI    |25   |24 |0     |
-|SAMPDORIA |23   |28 |4     |
-|GENOA     |21   |28 |0     |
-|ATALANTA  |19   |28 |0     |
-|FIORENTINA|17   |19 |0     |
+|FIORENTINA|42   |36 |2     |
+|PARMA     |40   |32 |0     |
+|TORINO    |38   |39 |0     |
+|MILAN     |37   |31 |3     |
+|EMPOLI    |35   |31 |1     |
+|LAZIO     |33   |26 |1     |
+|CAGLIARI  |30   |31 |1     |
+|SPAL      |30   |34 |1     |
+|SASSUOLO  |29   |26 |0     |
+|NAPOLI    |28   |28 |0     |
+|BOLOGNA   |28   |24 |1     |
+|FROSINONE |27   |28 |0     |
+|INTER     |27   |30 |1     |
+|GENOA     |26   |26 |0     |
+|ROMA      |25   |22 |0     |
+|CHIEVO    |23   |25 |0     |
+|JUVENTUS  |21   |28 |0     |
+|UDINESE   |20   |25 |0     |
+|SAMPDORIA |14   |21 |0     |
+|ATALANTA  |11   |18 |0     |
  
 --------------------------- 
 DAY 22 
-  ATALANTA 0 - 3 CHIEVO     
-  CAGLIARI 4 - 3 EMPOLI     
-   BOLOGNA 2 - 1 FIORENTINA 
-   UDINESE 0 - 3 FROSINONE  
-    TORINO 0 - 2 GENOA      
-      SPAL 3 - 2 INTER      
-  SASSUOLO 3 - 2 JUVENTUS   
- SAMPDORIA 2 - 4 LAZIO      
-      ROMA 0 - 1 MILAN      
-     PARMA 1 - 3 NAPOLI     
+     MILAN 0 - 1 ATALANTA   
+     LAZIO 2 - 3 BOLOGNA    
+   UDINESE 0 - 1 CAGLIARI   
+    TORINO 1 - 0 CHIEVO     
+      SPAL 1 - 0 EMPOLI     
+  SASSUOLO 0 - 2 FIORENTINA 
+ SAMPDORIA 1 - 2 FROSINONE  
+      ROMA 3 - 1 GENOA      
+     PARMA 1 - 1 INTER      
+    NAPOLI 2 - 2 JUVENTUS   
  
 PLACEMENT:
 |SQUADRA   |PUNTI|GOL|STRIKE|
-|JUVENTUS  |49   |30 |0     |
-|ROMA      |41   |39 |0     |
-|CHIEVO    |40   |35 |1     |
-|FROSINONE |36   |34 |1     |
-|BOLOGNA   |35   |27 |1     |
-|LAZIO     |35   |31 |2     |
-|SASSUOLO  |34   |25 |3     |
-|MILAN     |34   |26 |3     |
-|CAGLIARI  |31   |30 |2     |
-|PARMA     |30   |35 |0     |
-|SPAL      |30   |29 |1     |
-|NAPOLI    |29   |27 |1     |
-|TORINO    |27   |23 |0     |
-|INTER     |26   |35 |0     |
-|UDINESE   |26   |27 |0     |
-|EMPOLI    |25   |27 |0     |
-|GENOA     |24   |30 |1     |
-|SAMPDORIA |23   |30 |0     |
-|ATALANTA  |19   |28 |0     |
-|FIORENTINA|17   |20 |0     |
+|FIORENTINA|45   |38 |3     |
+|PARMA     |41   |33 |0     |
+|TORINO    |41   |40 |1     |
+|MILAN     |37   |31 |0     |
+|EMPOLI    |35   |31 |0     |
+|LAZIO     |33   |28 |0     |
+|CAGLIARI  |33   |32 |2     |
+|SPAL      |33   |35 |2     |
+|BOLOGNA   |31   |27 |2     |
+|FROSINONE |30   |30 |1     |
+|SASSUOLO  |29   |26 |0     |
+|NAPOLI    |29   |30 |0     |
+|INTER     |28   |31 |0     |
+|ROMA      |28   |25 |1     |
+|GENOA     |26   |27 |0     |
+|CHIEVO    |23   |25 |0     |
+|JUVENTUS  |22   |30 |0     |
+|UDINESE   |20   |25 |0     |
+|SAMPDORIA |14   |22 |0     |
+|ATALANTA  |14   |19 |1     |
  
 --------------------------- 
 DAY 23 
-  ATALANTA 1 - 2 EMPOLI     
-    CHIEVO 3 - 1 FIORENTINA 
-  CAGLIARI 2 - 1 FROSINONE  
-   BOLOGNA 3 - 1 GENOA      
-   UDINESE 1 - 2 INTER      
-    TORINO 3 - 2 JUVENTUS   
-      SPAL 3 - 0 LAZIO      
-  SASSUOLO 2 - 3 MILAN      
- SAMPDORIA 2 - 2 NAPOLI     
-      ROMA 1 - 1 PARMA      
+  ATALANTA 2 - 2 NAPOLI     
+   BOLOGNA 3 - 3 MILAN      
+  CAGLIARI 2 - 3 LAZIO      
+    CHIEVO 0 - 1 UDINESE    
+    EMPOLI 3 - 2 TORINO     
+FIORENTINA 1 - 2 SPAL       
+ FROSINONE 0 - 1 SASSUOLO   
+     GENOA 3 - 1 SAMPDORIA  
+     INTER 1 - 1 ROMA       
+  JUVENTUS 1 - 2 PARMA      
  
 PLACEMENT:
 |SQUADRA   |PUNTI|GOL|STRIKE|
-|JUVENTUS  |49   |32 |0     |
-|CHIEVO    |43   |38 |2     |
-|ROMA      |42   |40 |0     |
-|BOLOGNA   |38   |30 |2     |
-|MILAN     |37   |29 |4     |
-|FROSINONE |36   |35 |0     |
-|LAZIO     |35   |31 |0     |
-|SASSUOLO  |34   |27 |0     |
-|CAGLIARI  |34   |32 |3     |
-|SPAL      |33   |32 |2     |
-|PARMA     |31   |36 |0     |
-|NAPOLI    |30   |29 |0     |
-|TORINO    |30   |26 |1     |
-|INTER     |29   |37 |1     |
-|EMPOLI    |28   |29 |1     |
-|UDINESE   |26   |28 |0     |
-|GENOA     |24   |31 |0     |
-|SAMPDORIA |24   |32 |0     |
-|ATALANTA  |19   |29 |0     |
-|FIORENTINA|17   |21 |0     |
+|FIORENTINA|45   |39 |0     |
+|PARMA     |44   |35 |1     |
+|TORINO    |41   |42 |0     |
+|MILAN     |38   |34 |0     |
+|EMPOLI    |38   |34 |1     |
+|LAZIO     |36   |31 |1     |
+|SPAL      |36   |37 |3     |
+|CAGLIARI  |33   |34 |0     |
+|BOLOGNA   |32   |30 |0     |
+|SASSUOLO  |32   |27 |1     |
+|FROSINONE |30   |30 |0     |
+|NAPOLI    |30   |32 |0     |
+|INTER     |29   |32 |0     |
+|ROMA      |29   |26 |0     |
+|GENOA     |29   |30 |1     |
+|CHIEVO    |23   |25 |0     |
+|UDINESE   |23   |26 |1     |
+|JUVENTUS  |22   |31 |0     |
+|ATALANTA  |15   |21 |0     |
+|SAMPDORIA |14   |23 |0     |
  
 --------------------------- 
 DAY 24 
-  ATALANTA 4 - 2 FIORENTINA 
-    EMPOLI 2 - 2 FROSINONE  
-    CHIEVO 3 - 1 GENOA      
-  CAGLIARI 2 - 1 INTER      
-   BOLOGNA 2 - 0 JUVENTUS   
-   UDINESE 1 - 1 LAZIO      
-    TORINO 1 - 2 MILAN      
-      SPAL 1 - 1 NAPOLI     
-  SASSUOLO 4 - 2 PARMA      
- SAMPDORIA 1 - 2 ROMA       
+     PARMA 1 - 0 ATALANTA   
+    NAPOLI 1 - 2 BOLOGNA    
+     MILAN 0 - 1 CAGLIARI   
+     LAZIO 0 - 0 CHIEVO     
+   UDINESE 2 - 0 EMPOLI     
+    TORINO 2 - 0 FIORENTINA 
+      SPAL 2 - 0 FROSINONE  
+  SASSUOLO 1 - 1 GENOA      
+ SAMPDORIA 0 - 0 INTER      
+      ROMA 1 - 1 JUVENTUS   
  
 PLACEMENT:
 |SQUADRA   |PUNTI|GOL|STRIKE|
-|JUVENTUS  |49   |32 |0     |
-|CHIEVO    |46   |41 |3     |
-|ROMA      |45   |42 |1     |
-|BOLOGNA   |41   |32 |3     |
-|MILAN     |40   |31 |5     |
-|FROSINONE |37   |37 |0     |
-|SASSUOLO  |37   |31 |1     |
-|CAGLIARI  |37   |34 |4     |
-|LAZIO     |36   |32 |0     |
-|SPAL      |34   |33 |0     |
-|PARMA     |31   |38 |0     |
-|NAPOLI    |31   |30 |0     |
-|TORINO    |30   |27 |0     |
-|INTER     |29   |38 |0     |
-|EMPOLI    |29   |31 |0     |
-|UDINESE   |27   |29 |0     |
-|GENOA     |24   |32 |0     |
-|SAMPDORIA |24   |33 |0     |
-|ATALANTA  |22   |33 |1     |
-|FIORENTINA|17   |23 |0     |
+|PARMA     |47   |36 |2     |
+|FIORENTINA|45   |39 |0     |
+|TORINO    |44   |44 |1     |
+|SPAL      |39   |39 |4     |
+|MILAN     |38   |34 |0     |
+|EMPOLI    |38   |34 |0     |
+|LAZIO     |37   |31 |0     |
+|CAGLIARI  |36   |35 |1     |
+|BOLOGNA   |35   |32 |1     |
+|SASSUOLO  |33   |28 |0     |
+|FROSINONE |30   |30 |0     |
+|NAPOLI    |30   |33 |0     |
+|INTER     |30   |32 |0     |
+|ROMA      |30   |27 |0     |
+|GENOA     |30   |31 |0     |
+|UDINESE   |26   |28 |2     |
+|CHIEVO    |24   |25 |0     |
+|JUVENTUS  |23   |32 |0     |
+|ATALANTA  |15   |21 |0     |
+|SAMPDORIA |15   |23 |0     |
  
 --------------------------- 
 DAY 25 
-  ATALANTA 1 - 1 FROSINONE  
-FIORENTINA 0 - 2 GENOA      
-    EMPOLI 1 - 1 INTER      
-    CHIEVO 3 - 3 JUVENTUS   
-  CAGLIARI 2 - 2 LAZIO      
-   BOLOGNA 2 - 2 MILAN      
-   UDINESE 2 - 2 NAPOLI     
-    TORINO 1 - 0 PARMA      
-      SPAL 2 - 2 ROMA       
-  SASSUOLO 2 - 3 SAMPDORIA  
+  ATALANTA 3 - 0 ROMA       
+   BOLOGNA 3 - 2 PARMA      
+  CAGLIARI 0 - 2 NAPOLI     
+    CHIEVO 0 - 2 MILAN      
+    EMPOLI 1 - 1 LAZIO      
+FIORENTINA 3 - 3 UDINESE    
+ FROSINONE 3 - 1 TORINO     
+     GENOA 0 - 1 SPAL       
+     INTER 2 - 2 SASSUOLO   
+  JUVENTUS 0 - 1 SAMPDORIA  
  
 PLACEMENT:
 |SQUADRA   |PUNTI|GOL|STRIKE|
-|JUVENTUS  |50   |35 |0     |
-|CHIEVO    |47   |44 |0     |
-|ROMA      |46   |44 |0     |
-|BOLOGNA   |42   |34 |0     |
-|MILAN     |41   |33 |0     |
-|FROSINONE |38   |38 |0     |
-|CAGLIARI  |38   |36 |0     |
-|SASSUOLO  |37   |33 |0     |
-|LAZIO     |37   |34 |0     |
-|SPAL      |35   |35 |0     |
-|TORINO    |33   |28 |1     |
-|NAPOLI    |32   |32 |0     |
-|PARMA     |31   |38 |0     |
-|INTER     |30   |39 |0     |
-|EMPOLI    |30   |32 |0     |
-|UDINESE   |28   |31 |0     |
-|GENOA     |27   |34 |1     |
-|SAMPDORIA |27   |36 |1     |
-|ATALANTA  |23   |34 |0     |
-|FIORENTINA|17   |23 |0     |
+|PARMA     |47   |38 |0     |
+|FIORENTINA|46   |42 |0     |
+|TORINO    |44   |45 |0     |
+|SPAL      |42   |40 |5     |
+|MILAN     |41   |36 |1     |
+|EMPOLI    |39   |35 |0     |
+|LAZIO     |38   |32 |0     |
+|BOLOGNA   |38   |35 |2     |
+|CAGLIARI  |36   |35 |0     |
+|SASSUOLO  |34   |30 |0     |
+|FROSINONE |33   |33 |1     |
+|NAPOLI    |33   |35 |1     |
+|INTER     |31   |34 |0     |
+|ROMA      |30   |27 |0     |
+|GENOA     |30   |31 |0     |
+|UDINESE   |27   |31 |0     |
+|CHIEVO    |24   |25 |0     |
+|JUVENTUS  |23   |32 |0     |
+|ATALANTA  |18   |24 |1     |
+|SAMPDORIA |18   |24 |1     |
  
 --------------------------- 
 DAY 26 
-  ATALANTA 0 - 0 GENOA      
- FROSINONE 0 - 2 INTER      
-FIORENTINA 1 - 1 JUVENTUS   
-    EMPOLI 2 - 2 LAZIO      
-    CHIEVO 3 - 0 MILAN      
-  CAGLIARI 2 - 1 NAPOLI     
-   BOLOGNA 1 - 2 PARMA      
-   UDINESE 2 - 1 ROMA       
-    TORINO 3 - 2 SAMPDORIA  
-      SPAL 2 - 1 SASSUOLO   
+ SAMPDORIA 2 - 1 ATALANTA   
+      ROMA 1 - 0 BOLOGNA    
+     PARMA 2 - 0 CAGLIARI   
+    NAPOLI 2 - 4 CHIEVO     
+     MILAN 0 - 0 EMPOLI     
+     LAZIO 3 - 3 FIORENTINA 
+   UDINESE 2 - 1 FROSINONE  
+    TORINO 2 - 0 GENOA      
+      SPAL 1 - 1 INTER      
+  SASSUOLO 2 - 1 JUVENTUS   
  
 PLACEMENT:
 |SQUADRA   |PUNTI|GOL|STRIKE|
-|JUVENTUS  |51   |36 |0     |
-|CHIEVO    |50   |47 |1     |
-|ROMA      |46   |45 |0     |
-|BOLOGNA   |42   |35 |0     |
-|MILAN     |41   |33 |0     |
-|CAGLIARI  |41   |38 |1     |
-|FROSINONE |38   |38 |0     |
-|LAZIO     |38   |36 |0     |
-|SPAL      |38   |37 |1     |
-|SASSUOLO  |37   |34 |0     |
-|TORINO    |36   |31 |2     |
-|PARMA     |34   |40 |1     |
-|INTER     |33   |41 |1     |
-|NAPOLI    |32   |33 |0     |
-|EMPOLI    |31   |34 |0     |
-|UDINESE   |31   |33 |1     |
-|GENOA     |28   |34 |0     |
-|SAMPDORIA |27   |38 |0     |
-|ATALANTA  |24   |34 |0     |
-|FIORENTINA|18   |24 |0     |
+|PARMA     |50   |40 |1     |
+|FIORENTINA|47   |45 |0     |
+|TORINO    |47   |47 |1     |
+|SPAL      |43   |41 |0     |
+|MILAN     |42   |36 |0     |
+|EMPOLI    |40   |35 |0     |
+|LAZIO     |39   |35 |0     |
+|BOLOGNA   |38   |35 |0     |
+|SASSUOLO  |37   |32 |1     |
+|CAGLIARI  |36   |35 |0     |
+|FROSINONE |33   |34 |0     |
+|NAPOLI    |33   |37 |0     |
+|ROMA      |33   |28 |1     |
+|INTER     |32   |35 |0     |
+|GENOA     |30   |31 |0     |
+|UDINESE   |30   |33 |1     |
+|CHIEVO    |27   |29 |1     |
+|JUVENTUS  |23   |33 |0     |
+|SAMPDORIA |21   |26 |2     |
+|ATALANTA  |18   |25 |0     |
  
 --------------------------- 
 DAY 27 
-  ATALANTA 0 - 4 INTER      
-     GENOA 1 - 0 JUVENTUS   
+  ATALANTA 2 - 3 SASSUOLO   
+   BOLOGNA 3 - 2 SAMPDORIA  
+  CAGLIARI 2 - 2 ROMA       
+    CHIEVO 2 - 3 PARMA      
+    EMPOLI 3 - 0 NAPOLI     
+FIORENTINA 0 - 2 MILAN      
  FROSINONE 1 - 1 LAZIO      
-FIORENTINA 0 - 3 MILAN      
-    EMPOLI 2 - 0 NAPOLI     
-    CHIEVO 0 - 1 PARMA      
-  CAGLIARI 1 - 3 ROMA       
-   BOLOGNA 3 - 0 SAMPDORIA  
-   UDINESE 0 - 1 SASSUOLO   
-    TORINO 1 - 1 SPAL       
+     GENOA 0 - 3 UDINESE    
+     INTER 2 - 1 TORINO     
+  JUVENTUS 1 - 2 SPAL       
  
 PLACEMENT:
 |SQUADRA   |PUNTI|GOL|STRIKE|
-|JUVENTUS  |51   |36 |0     |
-|CHIEVO    |50   |47 |0     |
-|ROMA      |49   |48 |1     |
-|BOLOGNA   |45   |38 |1     |
-|MILAN     |44   |36 |1     |
-|CAGLIARI  |41   |39 |0     |
-|SASSUOLO  |40   |35 |1     |
-|FROSINONE |39   |39 |0     |
-|LAZIO     |39   |37 |0     |
-|SPAL      |39   |38 |0     |
-|TORINO    |37   |32 |0     |
-|PARMA     |37   |41 |2     |
-|INTER     |36   |45 |2     |
-|EMPOLI    |34   |36 |1     |
-|NAPOLI    |32   |33 |0     |
-|UDINESE   |31   |33 |0     |
-|GENOA     |31   |35 |1     |
-|SAMPDORIA |27   |38 |0     |
-|ATALANTA  |24   |34 |0     |
-|FIORENTINA|18   |24 |0     |
+|PARMA     |53   |43 |2     |
+|FIORENTINA|47   |45 |0     |
+|TORINO    |47   |48 |0     |
+|SPAL      |46   |43 |1     |
+|MILAN     |45   |38 |1     |
+|EMPOLI    |43   |38 |1     |
+|BOLOGNA   |41   |38 |1     |
+|LAZIO     |40   |36 |0     |
+|SASSUOLO  |40   |35 |2     |
+|CAGLIARI  |37   |37 |0     |
+|INTER     |35   |37 |1     |
+|FROSINONE |34   |35 |0     |
+|ROMA      |34   |30 |0     |
+|NAPOLI    |33   |37 |0     |
+|UDINESE   |33   |36 |2     |
+|GENOA     |30   |31 |0     |
+|CHIEVO    |27   |31 |0     |
+|JUVENTUS  |23   |34 |0     |
+|SAMPDORIA |21   |28 |0     |
+|ATALANTA  |18   |27 |0     |
  
 --------------------------- 
 DAY 28 
-  ATALANTA 0 - 0 JUVENTUS   
-     INTER 2 - 2 LAZIO      
-     GENOA 1 - 1 MILAN      
- FROSINONE 2 - 2 NAPOLI     
-FIORENTINA 0 - 3 PARMA      
-    EMPOLI 0 - 2 ROMA       
-    CHIEVO 0 - 1 SAMPDORIA  
-  CAGLIARI 2 - 3 SASSUOLO   
-   BOLOGNA 1 - 0 SPAL       
-   UDINESE 0 - 2 TORINO     
+      SPAL 1 - 1 ATALANTA   
+  SASSUOLO 1 - 2 BOLOGNA    
+ SAMPDORIA 2 - 3 CAGLIARI   
+      ROMA 1 - 1 CHIEVO     
+     PARMA 4 - 1 EMPOLI     
+    NAPOLI 2 - 0 FIORENTINA 
+     MILAN 3 - 0 FROSINONE  
+     LAZIO 2 - 3 GENOA      
+   UDINESE 2 - 2 INTER      
+    TORINO 2 - 1 JUVENTUS   
  
 PLACEMENT:
 |SQUADRA   |PUNTI|GOL|STRIKE|
-|JUVENTUS  |52   |36 |0     |
-|ROMA      |52   |50 |2     |
-|CHIEVO    |50   |47 |0     |
-|BOLOGNA   |48   |39 |2     |
-|MILAN     |45   |37 |0     |
-|SASSUOLO  |43   |38 |2     |
-|CAGLIARI  |41   |41 |0     |
-|FROSINONE |40   |41 |0     |
-|LAZIO     |40   |39 |0     |
-|TORINO    |40   |34 |1     |
-|PARMA     |40   |44 |3     |
-|SPAL      |39   |38 |0     |
-|INTER     |37   |47 |0     |
-|EMPOLI    |34   |36 |0     |
-|NAPOLI    |33   |35 |0     |
-|GENOA     |32   |36 |0     |
-|UDINESE   |31   |33 |0     |
-|SAMPDORIA |30   |39 |1     |
-|ATALANTA  |25   |34 |0     |
-|FIORENTINA|18   |24 |0     |
+|PARMA     |56   |47 |3     |
+|TORINO    |50   |50 |1     |
+|MILAN     |48   |41 |2     |
+|FIORENTINA|47   |45 |0     |
+|SPAL      |47   |44 |0     |
+|BOLOGNA   |44   |40 |2     |
+|EMPOLI    |43   |39 |0     |
+|LAZIO     |40   |38 |0     |
+|SASSUOLO  |40   |36 |0     |
+|CAGLIARI  |40   |40 |1     |
+|INTER     |36   |39 |0     |
+|NAPOLI    |36   |39 |1     |
+|ROMA      |35   |31 |0     |
+|FROSINONE |34   |35 |0     |
+|UDINESE   |34   |38 |0     |
+|GENOA     |33   |34 |1     |
+|CHIEVO    |28   |32 |0     |
+|JUVENTUS  |23   |35 |0     |
+|SAMPDORIA |21   |30 |0     |
+|ATALANTA  |19   |28 |0     |
  
 --------------------------- 
 DAY 29 
-  ATALANTA 2 - 2 LAZIO      
-  JUVENTUS 1 - 2 MILAN      
-     INTER 3 - 2 NAPOLI     
-     GENOA 2 - 3 PARMA      
- FROSINONE 1 - 3 ROMA       
-FIORENTINA 2 - 2 SAMPDORIA  
-    EMPOLI 1 - 2 SASSUOLO   
-    CHIEVO 0 - 0 SPAL       
-  CAGLIARI 1 - 2 TORINO     
-   BOLOGNA 0 - 0 UDINESE    
+  ATALANTA 1 - 2 TORINO     
+   BOLOGNA 1 - 2 SPAL       
+  CAGLIARI 0 - 0 SASSUOLO   
+    CHIEVO 0 - 0 SAMPDORIA  
+    EMPOLI 2 - 2 ROMA       
+FIORENTINA 0 - 0 PARMA      
+ FROSINONE 2 - 3 NAPOLI     
+     GENOA 1 - 3 MILAN      
+     INTER 2 - 1 LAZIO      
+  JUVENTUS 1 - 1 UDINESE    
  
 PLACEMENT:
 |SQUADRA   |PUNTI|GOL|STRIKE|
-|ROMA      |55   |53 |3     |
-|JUVENTUS  |52   |37 |0     |
-|CHIEVO    |51   |47 |0     |
-|BOLOGNA   |49   |39 |0     |
-|MILAN     |48   |39 |1     |
-|SASSUOLO  |46   |40 |3     |
-|TORINO    |43   |36 |2     |
-|PARMA     |43   |47 |4     |
-|CAGLIARI  |41   |42 |0     |
-|LAZIO     |41   |41 |0     |
-|FROSINONE |40   |42 |0     |
-|SPAL      |40   |38 |0     |
-|INTER     |40   |50 |1     |
-|EMPOLI    |34   |37 |0     |
-|NAPOLI    |33   |37 |0     |
-|GENOA     |32   |38 |0     |
-|UDINESE   |32   |33 |0     |
-|SAMPDORIA |31   |41 |0     |
-|ATALANTA  |26   |36 |0     |
-|FIORENTINA|19   |26 |0     |
+|PARMA     |57   |47 |0     |
+|TORINO    |53   |52 |2     |
+|MILAN     |51   |44 |3     |
+|SPAL      |50   |46 |1     |
+|FIORENTINA|48   |45 |0     |
+|BOLOGNA   |44   |41 |0     |
+|EMPOLI    |44   |41 |0     |
+|SASSUOLO  |41   |36 |0     |
+|CAGLIARI  |41   |40 |0     |
+|LAZIO     |40   |39 |0     |
+|INTER     |39   |41 |1     |
+|NAPOLI    |39   |42 |2     |
+|ROMA      |36   |33 |0     |
+|UDINESE   |35   |39 |0     |
+|FROSINONE |34   |37 |0     |
+|GENOA     |33   |35 |0     |
+|CHIEVO    |29   |32 |0     |
+|JUVENTUS  |24   |36 |0     |
+|SAMPDORIA |22   |30 |0     |
+|ATALANTA  |19   |29 |0     |
  
 --------------------------- 
 DAY 30 
-  ATALANTA 1 - 1 MILAN      
-     LAZIO 1 - 2 NAPOLI     
-  JUVENTUS 3 - 2 PARMA      
-     INTER 0 - 1 ROMA       
-     GENOA 1 - 0 SAMPDORIA  
- FROSINONE 1 - 1 SASSUOLO   
-FIORENTINA 1 - 1 SPAL       
-    EMPOLI 0 - 0 TORINO     
-    CHIEVO 2 - 1 UDINESE    
-  CAGLIARI 3 - 2 BOLOGNA    
+   UDINESE 3 - 1 ATALANTA   
+    TORINO 1 - 2 BOLOGNA    
+      SPAL 1 - 1 CAGLIARI   
+  SASSUOLO 0 - 0 CHIEVO     
+ SAMPDORIA 2 - 1 EMPOLI     
+      ROMA 0 - 1 FIORENTINA 
+     PARMA 0 - 2 FROSINONE  
+    NAPOLI 2 - 3 GENOA      
+     MILAN 1 - 2 INTER      
+     LAZIO 2 - 0 JUVENTUS   
  
 PLACEMENT:
 |SQUADRA   |PUNTI|GOL|STRIKE|
-|ROMA      |58   |54 |4     |
-|JUVENTUS  |55   |40 |1     |
-|CHIEVO    |54   |49 |1     |
-|BOLOGNA   |49   |41 |0     |
-|MILAN     |49   |40 |0     |
-|SASSUOLO  |47   |41 |0     |
-|TORINO    |44   |36 |0     |
-|CAGLIARI  |44   |45 |1     |
-|PARMA     |43   |49 |0     |
-|LAZIO     |41   |42 |0     |
-|FROSINONE |41   |43 |0     |
-|SPAL      |41   |39 |0     |
-|INTER     |40   |50 |0     |
-|NAPOLI    |36   |39 |1     |
-|EMPOLI    |35   |37 |0     |
-|GENOA     |35   |39 |1     |
-|UDINESE   |32   |34 |0     |
-|SAMPDORIA |31   |41 |0     |
-|ATALANTA  |27   |37 |0     |
-|FIORENTINA|20   |27 |0     |
+|PARMA     |57   |47 |0     |
+|TORINO    |53   |53 |0     |
+|MILAN     |51   |45 |0     |
+|SPAL      |51   |47 |0     |
+|FIORENTINA|51   |46 |1     |
+|BOLOGNA   |47   |43 |1     |
+|EMPOLI    |44   |42 |0     |
+|LAZIO     |43   |41 |1     |
+|SASSUOLO  |42   |36 |0     |
+|CAGLIARI  |42   |41 |0     |
+|INTER     |42   |43 |2     |
+|NAPOLI    |39   |44 |0     |
+|UDINESE   |38   |42 |1     |
+|FROSINONE |37   |39 |1     |
+|ROMA      |36   |33 |0     |
+|GENOA     |36   |38 |1     |
+|CHIEVO    |30   |32 |0     |
+|SAMPDORIA |25   |32 |1     |
+|JUVENTUS  |24   |36 |0     |
+|ATALANTA  |19   |30 |0     |
  
 --------------------------- 
 DAY 31 
-  ATALANTA 0 - 1 NAPOLI     
-     MILAN 2 - 0 PARMA      
-     LAZIO 0 - 1 ROMA       
-  JUVENTUS 2 - 0 SAMPDORIA  
-     INTER 2 - 1 SASSUOLO   
-     GENOA 1 - 1 SPAL       
- FROSINONE 2 - 2 TORINO     
-FIORENTINA 2 - 1 UDINESE    
-    EMPOLI 1 - 0 BOLOGNA    
-    CHIEVO 2 - 0 CAGLIARI   
+  ATALANTA 2 - 4 LAZIO      
+   BOLOGNA 2 - 4 UDINESE    
+  CAGLIARI 1 - 0 TORINO     
+    CHIEVO 0 - 3 SPAL       
+    EMPOLI 1 - 2 SASSUOLO   
+FIORENTINA 1 - 0 SAMPDORIA  
+ FROSINONE 3 - 3 ROMA       
+     GENOA 1 - 1 PARMA      
+     INTER 4 - 1 NAPOLI     
+  JUVENTUS 3 - 2 MILAN      
  
 PLACEMENT:
 |SQUADRA   |PUNTI|GOL|STRIKE|
-|ROMA      |61   |55 |5     |
-|JUVENTUS  |58   |42 |2     |
-|CHIEVO    |57   |51 |2     |
-|MILAN     |52   |42 |1     |
-|BOLOGNA   |49   |41 |0     |
-|SASSUOLO  |47   |42 |0     |
-|TORINO    |45   |38 |0     |
-|CAGLIARI  |44   |45 |0     |
-|PARMA     |43   |49 |0     |
-|INTER     |43   |52 |1     |
-|FROSINONE |42   |45 |0     |
-|SPAL      |42   |40 |0     |
-|LAZIO     |41   |42 |0     |
-|NAPOLI    |39   |40 |2     |
-|EMPOLI    |38   |38 |1     |
-|GENOA     |36   |40 |0     |
-|UDINESE   |32   |35 |0     |
-|SAMPDORIA |31   |41 |0     |
-|ATALANTA  |27   |37 |0     |
-|FIORENTINA|23   |29 |1     |
+|PARMA     |58   |48 |0     |
+|SPAL      |54   |50 |1     |
+|FIORENTINA|54   |47 |2     |
+|TORINO    |53   |53 |0     |
+|MILAN     |51   |47 |0     |
+|BOLOGNA   |47   |45 |0     |
+|LAZIO     |46   |45 |2     |
+|SASSUOLO  |45   |38 |1     |
+|CAGLIARI  |45   |42 |1     |
+|INTER     |45   |47 |3     |
+|EMPOLI    |44   |43 |0     |
+|UDINESE   |41   |46 |2     |
+|NAPOLI    |39   |45 |0     |
+|FROSINONE |38   |42 |0     |
+|ROMA      |37   |36 |0     |
+|GENOA     |37   |39 |0     |
+|CHIEVO    |30   |32 |0     |
+|JUVENTUS  |27   |39 |1     |
+|SAMPDORIA |25   |32 |0     |
+|ATALANTA  |19   |32 |0     |
  
 --------------------------- 
 DAY 32 
-  ATALANTA 2 - 0 PARMA      
-    NAPOLI 2 - 0 ROMA       
-     MILAN 4 - 1 SAMPDORIA  
-     LAZIO 4 - 2 SASSUOLO   
-  JUVENTUS 1 - 3 SPAL       
-     INTER 2 - 1 TORINO     
-     GENOA 2 - 1 UDINESE    
- FROSINONE 2 - 4 BOLOGNA    
-FIORENTINA 2 - 0 CAGLIARI   
-    EMPOLI 2 - 3 CHIEVO     
+     MILAN 2 - 2 ATALANTA   
+     LAZIO 4 - 5 BOLOGNA    
+   UDINESE 1 - 1 CAGLIARI   
+    TORINO 2 - 0 CHIEVO     
+      SPAL 2 - 1 EMPOLI     
+  SASSUOLO 2 - 0 FIORENTINA 
+ SAMPDORIA 2 - 0 FROSINONE  
+      ROMA 3 - 0 GENOA      
+     PARMA 1 - 3 INTER      
+    NAPOLI 1 - 2 JUVENTUS   
  
 PLACEMENT:
 |SQUADRA   |PUNTI|GOL|STRIKE|
-|ROMA      |61   |55 |0     |
-|CHIEVO    |60   |54 |3     |
-|JUVENTUS  |58   |43 |0     |
-|MILAN     |55   |46 |2     |
-|BOLOGNA   |52   |45 |1     |
-|SASSUOLO  |47   |44 |0     |
-|INTER     |46   |54 |2     |
-|TORINO    |45   |39 |0     |
-|SPAL      |45   |43 |1     |
-|CAGLIARI  |44   |45 |0     |
-|LAZIO     |44   |46 |1     |
-|PARMA     |43   |49 |0     |
-|FROSINONE |42   |47 |0     |
-|NAPOLI    |42   |42 |3     |
-|GENOA     |39   |42 |1     |
-|EMPOLI    |38   |40 |0     |
-|UDINESE   |32   |36 |0     |
-|SAMPDORIA |31   |42 |0     |
-|ATALANTA  |30   |39 |1     |
-|FIORENTINA|26   |31 |2     |
+|PARMA     |58   |49 |0     |
+|SPAL      |57   |52 |2     |
+|TORINO    |56   |55 |1     |
+|FIORENTINA|54   |47 |0     |
+|MILAN     |52   |49 |0     |
+|BOLOGNA   |50   |50 |1     |
+|SASSUOLO  |48   |40 |2     |
+|INTER     |48   |50 |4     |
+|LAZIO     |46   |49 |0     |
+|CAGLIARI  |46   |43 |0     |
+|EMPOLI    |44   |44 |0     |
+|UDINESE   |42   |47 |0     |
+|ROMA      |40   |39 |1     |
+|NAPOLI    |39   |46 |0     |
+|FROSINONE |38   |42 |0     |
+|GENOA     |37   |39 |0     |
+|CHIEVO    |30   |32 |0     |
+|JUVENTUS  |30   |41 |2     |
+|SAMPDORIA |28   |34 |1     |
+|ATALANTA  |20   |34 |0     |
  
 --------------------------- 
 DAY 33 
-  ATALANTA 3 - 2 ROMA       
-     PARMA 2 - 1 SAMPDORIA  
-    NAPOLI 1 - 1 SASSUOLO   
-     MILAN 0 - 2 SPAL       
-     LAZIO 1 - 1 TORINO     
-  JUVENTUS 3 - 2 UDINESE    
-     INTER 1 - 1 BOLOGNA    
-     GENOA 0 - 1 CAGLIARI   
- FROSINONE 1 - 1 CHIEVO     
-FIORENTINA 0 - 1 EMPOLI     
+  ATALANTA 0 - 3 NAPOLI     
+   BOLOGNA 2 - 4 MILAN      
+  CAGLIARI 0 - 1 LAZIO      
+    CHIEVO 2 - 0 UDINESE    
+    EMPOLI 1 - 1 TORINO     
+FIORENTINA 2 - 1 SPAL       
+ FROSINONE 2 - 1 SASSUOLO   
+     GENOA 1 - 0 SAMPDORIA  
+     INTER 1 - 2 ROMA       
+  JUVENTUS 2 - 2 PARMA      
  
 PLACEMENT:
 |SQUADRA   |PUNTI|GOL|STRIKE|
-|ROMA      |61   |57 |0     |
-|CHIEVO    |61   |55 |0     |
-|JUVENTUS  |61   |46 |1     |
-|MILAN     |55   |46 |0     |
-|BOLOGNA   |53   |46 |0     |
-|SASSUOLO  |48   |45 |0     |
-|SPAL      |48   |45 |2     |
-|INTER     |47   |55 |0     |
-|CAGLIARI  |47   |46 |1     |
-|TORINO    |46   |40 |0     |
-|PARMA     |46   |51 |1     |
-|LAZIO     |45   |47 |0     |
-|FROSINONE |43   |48 |0     |
-|NAPOLI    |43   |43 |0     |
-|EMPOLI    |41   |41 |1     |
-|GENOA     |39   |42 |0     |
-|ATALANTA  |33   |42 |2     |
-|UDINESE   |32   |38 |0     |
-|SAMPDORIA |31   |43 |0     |
-|FIORENTINA|26   |31 |0     |
+|PARMA     |59   |51 |0     |
+|SPAL      |57   |53 |0     |
+|TORINO    |57   |56 |0     |
+|FIORENTINA|57   |49 |1     |
+|MILAN     |55   |53 |1     |
+|BOLOGNA   |50   |52 |0     |
+|LAZIO     |49   |50 |1     |
+|SASSUOLO  |48   |41 |0     |
+|INTER     |48   |51 |0     |
+|CAGLIARI  |46   |43 |0     |
+|EMPOLI    |45   |45 |0     |
+|ROMA      |43   |41 |2     |
+|UDINESE   |42   |47 |0     |
+|NAPOLI    |42   |49 |1     |
+|FROSINONE |41   |44 |1     |
+|GENOA     |40   |40 |1     |
+|CHIEVO    |33   |34 |1     |
+|JUVENTUS  |31   |43 |0     |
+|SAMPDORIA |28   |34 |0     |
+|ATALANTA  |20   |34 |0     |
  
 --------------------------- 
 DAY 34 
-  ATALANTA 0 - 2 SAMPDORIA  
-      ROMA 2 - 1 SASSUOLO   
-     PARMA 3 - 3 SPAL       
-    NAPOLI 1 - 2 TORINO     
-     MILAN 3 - 1 UDINESE    
-     LAZIO 2 - 1 BOLOGNA    
-  JUVENTUS 1 - 1 CAGLIARI   
-     INTER 2 - 2 CHIEVO     
-     GENOA 2 - 1 EMPOLI     
- FROSINONE 2 - 0 FIORENTINA 
+     PARMA 2 - 0 ATALANTA   
+    NAPOLI 1 - 1 BOLOGNA    
+     MILAN 0 - 0 CAGLIARI   
+     LAZIO 4 - 1 CHIEVO     
+   UDINESE 2 - 1 EMPOLI     
+    TORINO 2 - 3 FIORENTINA 
+      SPAL 1 - 0 FROSINONE  
+  SASSUOLO 1 - 0 GENOA      
+ SAMPDORIA 3 - 3 INTER      
+      ROMA 0 - 0 JUVENTUS   
  
 PLACEMENT:
 |SQUADRA   |PUNTI|GOL|STRIKE|
-|ROMA      |64   |59 |1     |
-|CHIEVO    |62   |57 |0     |
-|JUVENTUS  |62   |47 |0     |
-|MILAN     |58   |49 |1     |
-|BOLOGNA   |53   |47 |0     |
-|SPAL      |49   |48 |0     |
-|TORINO    |49   |42 |1     |
-|SASSUOLO  |48   |46 |0     |
-|INTER     |48   |57 |0     |
-|CAGLIARI  |48   |47 |0     |
-|LAZIO     |48   |49 |1     |
-|PARMA     |47   |54 |0     |
-|FROSINONE |46   |50 |1     |
-|NAPOLI    |43   |44 |0     |
-|GENOA     |42   |44 |1     |
-|EMPOLI    |41   |42 |0     |
-|SAMPDORIA |34   |45 |1     |
-|ATALANTA  |33   |42 |0     |
-|UDINESE   |32   |39 |0     |
-|FIORENTINA|26   |31 |0     |
+|PARMA     |62   |53 |1     |
+|SPAL      |60   |54 |1     |
+|FIORENTINA|60   |52 |2     |
+|TORINO    |57   |58 |0     |
+|MILAN     |56   |53 |0     |
+|LAZIO     |52   |54 |2     |
+|BOLOGNA   |51   |53 |0     |
+|SASSUOLO  |51   |42 |1     |
+|INTER     |49   |54 |0     |
+|CAGLIARI  |47   |43 |0     |
+|EMPOLI    |45   |46 |0     |
+|UDINESE   |45   |49 |1     |
+|ROMA      |44   |41 |0     |
+|NAPOLI    |43   |50 |0     |
+|FROSINONE |41   |44 |0     |
+|GENOA     |40   |40 |0     |
+|CHIEVO    |33   |35 |0     |
+|JUVENTUS  |32   |43 |0     |
+|SAMPDORIA |29   |37 |0     |
+|ATALANTA  |20   |34 |0     |
  
 --------------------------- 
 DAY 35 
-  ATALANTA 0 - 0 SASSUOLO   
- SAMPDORIA 3 - 4 SPAL       
-      ROMA 2 - 0 TORINO     
-     PARMA 2 - 0 UDINESE    
-    NAPOLI 2 - 1 BOLOGNA    
-     MILAN 2 - 2 CAGLIARI   
-     LAZIO 1 - 2 CHIEVO     
-  JUVENTUS 0 - 1 EMPOLI     
-     INTER 3 - 2 FIORENTINA 
-     GENOA 2 - 1 FROSINONE  
+  ATALANTA 1 - 0 ROMA       
+   BOLOGNA 1 - 0 PARMA      
+  CAGLIARI 2 - 1 NAPOLI     
+    CHIEVO 1 - 1 MILAN      
+    EMPOLI 0 - 2 LAZIO      
+FIORENTINA 1 - 0 UDINESE    
+ FROSINONE 2 - 1 TORINO     
+     GENOA 2 - 1 SPAL       
+     INTER 1 - 3 SASSUOLO   
+  JUVENTUS 1 - 0 SAMPDORIA  
  
 PLACEMENT:
 |SQUADRA   |PUNTI|GOL|STRIKE|
-|ROMA      |67   |61 |2     |
-|CHIEVO    |65   |59 |1     |
-|JUVENTUS  |62   |47 |0     |
-|MILAN     |59   |51 |0     |
-|BOLOGNA   |53   |48 |0     |
-|SPAL      |52   |52 |1     |
-|INTER     |51   |60 |1     |
-|PARMA     |50   |56 |1     |
-|TORINO    |49   |42 |0     |
-|SASSUOLO  |49   |46 |0     |
-|CAGLIARI  |49   |49 |0     |
-|LAZIO     |48   |50 |0     |
-|FROSINONE |46   |51 |0     |
-|NAPOLI    |46   |46 |1     |
-|GENOA     |45   |46 |2     |
-|EMPOLI    |44   |43 |1     |
-|SAMPDORIA |34   |48 |0     |
-|ATALANTA  |34   |42 |0     |
-|UDINESE   |32   |39 |0     |
-|FIORENTINA|26   |33 |0     |
+|FIORENTINA|63   |53 |3     |
+|PARMA     |62   |53 |0     |
+|SPAL      |60   |55 |0     |
+|TORINO    |57   |59 |0     |
+|MILAN     |57   |54 |0     |
+|LAZIO     |55   |56 |3     |
+|BOLOGNA   |54   |54 |1     |
+|SASSUOLO  |54   |45 |2     |
+|CAGLIARI  |50   |45 |1     |
+|INTER     |49   |55 |0     |
+|EMPOLI    |45   |46 |0     |
+|UDINESE   |45   |49 |0     |
+|ROMA      |44   |41 |0     |
+|FROSINONE |44   |46 |1     |
+|NAPOLI    |43   |51 |0     |
+|GENOA     |43   |42 |1     |
+|JUVENTUS  |35   |44 |1     |
+|CHIEVO    |34   |36 |0     |
+|SAMPDORIA |29   |37 |0     |
+|ATALANTA  |23   |35 |1     |
  
 --------------------------- 
 DAY 36 
-  ATALANTA 1 - 1 SPAL       
-  SASSUOLO 1 - 3 TORINO     
- SAMPDORIA 3 - 1 UDINESE    
+ SAMPDORIA 3 - 1 ATALANTA   
       ROMA 1 - 0 BOLOGNA    
-     PARMA 2 - 0 CAGLIARI   
-    NAPOLI 0 - 2 CHIEVO     
-     MILAN 1 - 1 EMPOLI     
-     LAZIO 3 - 0 FIORENTINA 
-  JUVENTUS 1 - 2 FROSINONE  
-     INTER 0 - 1 GENOA      
+     PARMA 1 - 1 CAGLIARI   
+    NAPOLI 4 - 0 CHIEVO     
+     MILAN 2 - 2 EMPOLI     
+     LAZIO 1 - 2 FIORENTINA 
+   UDINESE 0 - 2 FROSINONE  
+    TORINO 0 - 0 GENOA      
+      SPAL 0 - 3 INTER      
+  SASSUOLO 2 - 2 JUVENTUS   
  
 PLACEMENT:
 |SQUADRA   |PUNTI|GOL|STRIKE|
-|ROMA      |70   |62 |3     |
-|CHIEVO    |68   |61 |2     |
-|JUVENTUS  |62   |48 |0     |
-|MILAN     |60   |52 |0     |
-|BOLOGNA   |53   |48 |0     |
-|SPAL      |53   |53 |0     |
-|PARMA     |53   |58 |2     |
-|TORINO    |52   |45 |1     |
-|INTER     |51   |60 |0     |
-|LAZIO     |51   |53 |1     |
-|SASSUOLO  |49   |47 |0     |
-|CAGLIARI  |49   |49 |0     |
-|FROSINONE |49   |53 |1     |
-|GENOA     |48   |47 |3     |
-|NAPOLI    |46   |46 |0     |
-|EMPOLI    |45   |44 |0     |
-|SAMPDORIA |37   |51 |1     |
-|ATALANTA  |35   |43 |0     |
-|UDINESE   |32   |40 |0     |
-|FIORENTINA|26   |33 |0     |
+|FIORENTINA|66   |55 |4     |
+|PARMA     |63   |54 |0     |
+|SPAL      |60   |55 |0     |
+|TORINO    |58   |59 |0     |
+|MILAN     |58   |56 |0     |
+|LAZIO     |55   |57 |0     |
+|SASSUOLO  |55   |47 |0     |
+|BOLOGNA   |54   |54 |0     |
+|INTER     |52   |58 |1     |
+|CAGLIARI  |51   |46 |0     |
+|ROMA      |47   |42 |1     |
+|FROSINONE |47   |48 |2     |
+|EMPOLI    |46   |48 |0     |
+|NAPOLI    |46   |55 |1     |
+|UDINESE   |45   |49 |0     |
+|GENOA     |44   |42 |0     |
+|JUVENTUS  |36   |46 |0     |
+|CHIEVO    |34   |36 |0     |
+|SAMPDORIA |32   |40 |1     |
+|ATALANTA  |23   |36 |0     |
  
 --------------------------- 
 DAY 37 
-  ATALANTA 0 - 2 TORINO     
-      SPAL 2 - 2 UDINESE    
-  SASSUOLO 0 - 0 BOLOGNA    
- SAMPDORIA 3 - 1 CAGLIARI   
-      ROMA 4 - 1 CHIEVO     
-     PARMA 0 - 1 EMPOLI     
-    NAPOLI 0 - 0 FIORENTINA 
-     MILAN 1 - 1 FROSINONE  
-     LAZIO 0 - 1 GENOA      
-  JUVENTUS 3 - 2 INTER      
+  ATALANTA 1 - 2 SASSUOLO   
+   BOLOGNA 1 - 1 SAMPDORIA  
+  CAGLIARI 0 - 3 ROMA       
+    CHIEVO 0 - 0 PARMA      
+    EMPOLI 2 - 0 NAPOLI     
+FIORENTINA 2 - 1 MILAN      
+ FROSINONE 4 - 2 LAZIO      
+     GENOA 3 - 3 UDINESE    
+     INTER 2 - 2 TORINO     
+  JUVENTUS 2 - 2 SPAL       
  
 PLACEMENT:
 |SQUADRA   |PUNTI|GOL|STRIKE|
-|ROMA      |73   |66 |4     |
-|CHIEVO    |68   |62 |0     |
-|JUVENTUS  |65   |51 |1     |
-|MILAN     |61   |53 |0     |
-|TORINO    |55   |47 |2     |
-|BOLOGNA   |54   |48 |0     |
-|SPAL      |54   |55 |0     |
-|PARMA     |53   |58 |0     |
-|INTER     |51   |62 |0     |
-|LAZIO     |51   |53 |0     |
-|GENOA     |51   |48 |4     |
-|SASSUOLO  |50   |47 |0     |
-|FROSINONE |50   |54 |0     |
-|CAGLIARI  |49   |50 |0     |
-|EMPOLI    |48   |45 |1     |
-|NAPOLI    |47   |46 |0     |
-|SAMPDORIA |40   |54 |2     |
-|ATALANTA  |35   |43 |0     |
-|UDINESE   |33   |42 |0     |
-|FIORENTINA|27   |33 |0     |
+|FIORENTINA|69   |57 |5     |
+|PARMA     |64   |54 |0     |
+|SPAL      |61   |57 |0     |
+|TORINO    |59   |61 |0     |
+|MILAN     |58   |57 |0     |
+|SASSUOLO  |58   |49 |1     |
+|LAZIO     |55   |59 |0     |
+|BOLOGNA   |55   |55 |0     |
+|INTER     |53   |60 |0     |
+|CAGLIARI  |51   |46 |0     |
+|ROMA      |50   |45 |2     |
+|FROSINONE |50   |52 |3     |
+|EMPOLI    |49   |50 |1     |
+|NAPOLI    |46   |55 |0     |
+|UDINESE   |46   |52 |0     |
+|GENOA     |45   |45 |0     |
+|JUVENTUS  |37   |48 |0     |
+|CHIEVO    |35   |36 |0     |
+|SAMPDORIA |33   |41 |0     |
+|ATALANTA  |23   |37 |0     |
  
 --------------------------- 
 DAY 38 
-  ATALANTA 0 - 3 UDINESE    
-    TORINO 1 - 2 BOLOGNA    
-      SPAL 3 - 1 CAGLIARI   
-  SASSUOLO 1 - 0 CHIEVO     
- SAMPDORIA 2 - 3 EMPOLI     
-      ROMA 3 - 1 FIORENTINA 
-     PARMA 1 - 1 FROSINONE  
-    NAPOLI 1 - 0 GENOA      
-     MILAN 0 - 0 INTER      
-     LAZIO 1 - 2 JUVENTUS   
+      SPAL 1 - 0 ATALANTA   
+  SASSUOLO 0 - 2 BOLOGNA    
+ SAMPDORIA 3 - 1 CAGLIARI   
+      ROMA 2 - 1 CHIEVO     
+     PARMA 2 - 2 EMPOLI     
+    NAPOLI 2 - 2 FIORENTINA 
+     MILAN 1 - 2 FROSINONE  
+     LAZIO 2 - 1 GENOA      
+   UDINESE 1 - 2 INTER      
+    TORINO 4 - 1 JUVENTUS   
  
 PLACEMENT:
 |SQUADRA   |PUNTI|GOL|STRIKE|
-|ROMA      |76   |69 |5     |
-|CHIEVO    |68   |62 |0     |
-|JUVENTUS  |68   |53 |2     |
-|MILAN     |62   |53 |0     |
-|BOLOGNA   |57   |50 |1     |
-|SPAL      |57   |58 |1     |
-|TORINO    |55   |48 |0     |
-|PARMA     |54   |59 |0     |
-|SASSUOLO  |53   |48 |1     |
-|INTER     |52   |62 |0     |
-|LAZIO     |51   |54 |0     |
-|GENOA     |51   |48 |0     |
-|FROSINONE |51   |55 |0     |
-|EMPOLI    |51   |48 |2     |
-|NAPOLI    |50   |47 |1     |
-|CAGLIARI  |49   |51 |0     |
-|SAMPDORIA |40   |56 |0     |
-|UDINESE   |36   |45 |1     |
-|ATALANTA  |35   |43 |0     |
-|FIORENTINA|27   |34 |0     |
+|FIORENTINA|70   |59 |0     |
+|PARMA     |65   |56 |0     |
+|SPAL      |64   |58 |1     |
+|TORINO    |62   |65 |1     |
+|MILAN     |58   |58 |0     |
+|SASSUOLO  |58   |49 |0     |
+|LAZIO     |58   |61 |1     |
+|BOLOGNA   |58   |57 |1     |
+|INTER     |56   |62 |1     |
+|ROMA      |53   |47 |3     |
+|FROSINONE |53   |54 |4     |
+|CAGLIARI  |51   |47 |0     |
+|EMPOLI    |50   |52 |0     |
+|NAPOLI    |47   |57 |0     |
+|UDINESE   |46   |53 |0     |
+|GENOA     |45   |46 |0     |
+|JUVENTUS  |37   |49 |0     |
+|SAMPDORIA |36   |44 |1     |
+|CHIEVO    |35   |37 |0     |
+|ATALANTA  |23   |37 |0     |
  
 --------------------------- 
-WINNER: [ROMA]
+WINNER: [FIORENTINA]
