@@ -10,9 +10,9 @@ public final class Constants {
 	public static final String RESULTS = "results.json";
 	public static final String START = "START SOCCER BOT v0.1";
 	public static final String DAY = "DAY ";
+	public static final String FINAL_DAY = "FINAL DAY ON ";
 	public static final String EMPTY = " \n";
 	public static final String SEPARATOR = "---------------------------";
-
 
 	/** Constants **/
 	public static final String STATUS_OK = "OK";

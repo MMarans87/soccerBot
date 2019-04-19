@@ -27,11 +27,13 @@ public class Engine {
 			if (team.getName().equals(match.getHome())) {
 				team.setPoints(team.getPoints() + evaluatePoints(match.getHomeGoals(), match.getAwayGoals()));
 				team.setGoals(team.getGoals() + match.getHomeGoals());
+				team.setConceded(team.getConceded() + match.getAwayGoals());
 				team.setWinStrike(evaluateWinStrike(evaluatePoints(match.getHomeGoals(), match.getAwayGoals()), team.getWinStrike()));
 			}
 			if (team.getName().equals(match.getAway())) {
 				team.setPoints(team.getPoints() + evaluatePoints(match.getAwayGoals(), match.getHomeGoals()));
 				team.setGoals(team.getGoals() + match.getAwayGoals());
+				team.setConceded(team.getConceded() + match.getHomeGoals());
 				team.setWinStrike(evaluateWinStrike(evaluatePoints(match.getAwayGoals(), match.getHomeGoals()), team.getWinStrike()));
 			}
 		}
@@ -39,15 +41,6 @@ public class Engine {
 
 	private static int evaluateWinStrike(int evaluatePoints, int winStrike) {
 		return evaluatePoints == 3 ? (winStrike + 1) : 0;
-	}
-
-	public static Integer calculateScore() {
-		Random rnd = new Random();
-		Integer value;
-		do {
-			value = (int) Math.round(rnd.nextGaussian() * 1.2 + 1.4d);
-		} while (value < 0 || value > 9);
-		return value;
 	}
 
 	public static void calculateScore(Team homeTeam, Team awayTeam, Match match) {
@@ -77,5 +70,25 @@ public class Engine {
 			return 3;
 		}
 		return 0;
+	}
+
+	public static void calculateScoreElim(Team homeTeam, Team awayTeam, Match match) {
+		// calculate home goals
+		Random homeRnd = new Random();
+		Integer homeGoals;
+		Integer awayGoals;
+		do {
+			do {
+				homeGoals = (int) Math.round(homeRnd.nextGaussian() * 1.1 + (1.2d + ((homeTeam.getPoints() - awayTeam.getPoints()) * 0.018d)));
+			} while (homeGoals < 0 || homeGoals > 9);
+			match.setHomeGoals(homeGoals);
+
+			// calculate home goals
+			Random awayRnd = new Random();
+			do {
+				awayGoals = (int) Math.round(awayRnd.nextGaussian() * 1.1 + (1.2d + ((awayTeam.getPoints() - homeTeam.getPoints()) * 0.018d)));
+			} while (awayGoals < 0 || awayGoals > 9);
+			match.setAwayGoals(awayGoals);
+		} while (homeGoals == awayGoals);
 	}
 }

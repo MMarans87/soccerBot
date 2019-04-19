@@ -6,12 +6,10 @@ import java.util.List;
 import soccerBot.model.Match;
 import soccerBot.model.MatchWeek;
 import soccerBot.utility.Constants;
-import soccerBot.utility.Utils;
 
 public class Schedule {
 
-	public static List<MatchWeek> generate() {
-		List<String> ListTeam = Utils.GenerateTeams();
+	public static List<MatchWeek> generate(List<String> ListTeam) {
 		List<MatchWeek> schedule = new ArrayList<>();
 
 		if (ListTeam.size() % 2 != 0) {

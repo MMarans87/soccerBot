@@ -12,6 +12,7 @@ public class Team {
 	private int winStrike;
 	private int points;
 	private int goals;
+	private int conceded;
 
 	public int getId() {
 		return id;
@@ -53,9 +54,17 @@ public class Team {
 		this.goals = goals;
 	}
 
+	public int getConceded() {
+		return conceded;
+	}
+
+	public void setConceded(int conceded) {
+		this.conceded = conceded;
+	}
+
 	@Override
 	public String toString() {
-		return "Team [id=" + id + ", name=" + name + ", winStrike=" + winStrike + ", points=" + points + ", goals=" + goals + "]";
+		return "Team [id=" + id + ", name=" + name + ", winStrike=" + winStrike + ", points=" + points + ", goals=" + goals + ", conceded=" + conceded + "]";
 	}
 
 }
